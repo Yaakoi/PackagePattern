@@ -78,7 +78,6 @@ namespace Interface_Nicolas
         {
             pluginViewCtrl.ReflectionY = !pluginViewCtrl.ReflectionY;
             pluginViewCtrl.Refresh();
-
         }
     }
 }
