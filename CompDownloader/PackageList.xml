@@ -1,0 +1,3292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="/treeDiM/PLMPack/Components">
+  <components name="Mailer_Lock" description="" guid="00c86f6e-440b-46a0-b3a4-db9fd580cc4c" fileName="17878e6b-a87a-4be9-bf40-5f3aef370e98.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="100" />
+      <p xsi:type="parameterDouble" name="B" value="60" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="HH" value="1" />
+      <p xsi:type="parameterDouble" name="MA" value="30" />
+      <p xsi:type="parameterDouble" name="MB" value="15" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Base ETUI - 320" description="" guid="00ef974f-ce8b-4cc4-b36f-a7fb05883d98" fileName="d15e2fef-ea90-49d9-ad43-fd386cc98049.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Ear_01" description="" guid="01bbd4bd-4df9-4206-8e54-b319280b500a" fileName="967ebdb9-a12f-4180-b1a9-16bdf37cf070.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="100" />
+      <p xsi:type="parameterDouble" name="Ra" value="20" />
+      <p xsi:type="parameterDouble" name="st" value="3" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Canadien 02" description="" guid="02235d3c-a6f2-403f-b5d5-713ab6ba9626" fileName="0a9b03fd-fd94-4ff1-bc1d-4a27bcc08f2d.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Hanging_hole_ROUND" description="" guid="02ab6082-a98a-4425-b1e1-1c71878734db" fileName="60b19a3b-7b6e-4a11-bc88-11c49d1a4468.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="R" value="7" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="PLV Part Totem Leg 01" description="" guid="02c13aed-cd81-4c19-b5fc-6a18bbed6919" fileName="fbcd9d4e-a070-4995-8307-81bbdbdd3733.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="150" />
+      <p xsi:type="parameterDouble" name="Ec" value="10" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="150" />
+      <p xsi:type="parameterDouble" name="L2" value="100" />
+      <p xsi:type="parameterDouble" name="Lt" value="200" />
+      <p xsi:type="parameterDouble" name="R" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0907_Ext" description="" guid="03032a60-ee25-419a-92c0-2d3cc720d06c" fileName="75ffb476-fe1b-4ff5-b26c-b1278e3f13c7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Lock_Tab_01" description="" guid="03049125-7741-4c50-89fa-08fa0ad1c1cc" fileName="b7570940-a5a1-4bff-8c90-d7a032b912df.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A1" value="100" />
+      <p xsi:type="parameterDouble" name="B1" value="30" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exB1" value="1" />
+      <p xsi:type="parameterDouble" name="L1" value="15" />
+      <p xsi:type="parameterDouble" name="R1" value="5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A2120" description="" guid="04aab9a9-0321-4aa5-921c-6b2084b578c1" fileName="f3161425-5de1-4f81-b593-c61c16a5c238.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0423 PicFEFCO" description="" guid="0613bbe0-9e7c-499e-a12f-af75b5a61876" fileName="c0016c2b-7f66-4cb7-8aef-05e5fa82ffbe.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0459" description="" guid="0672b011-bf39-4e7d-a57e-f7eb653e6dec" fileName="5147e2a2-5697-4b10-b6ae-09414318ba3e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Seal_Lock_Tab" description="" guid="06c073d2-f39b-4558-a6b3-7d2f17f302bc" fileName="89e883b5-cf3f-4b3e-8fc7-9dd0135b9f03.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="100" />
+      <p xsi:type="parameterDouble" name="a1" value="10" />
+      <p xsi:type="parameterDouble" name="a2" value="9" />
+      <p xsi:type="parameterDouble" name="B" value="74.779998779296875" />
+      <p xsi:type="parameterDouble" name="B3" value="53" />
+      <p xsi:type="parameterDouble" name="CT" value="7.070000171661377" />
+      <p xsi:type="parameterDouble" name="e" value="0" />
+      <p xsi:type="parameterDouble" name="T" value="5" />
+      <p xsi:type="parameterDouble" name="T1" value="40" />
+      <p xsi:type="parameterDouble" name="T2" value="5" />
+      <p xsi:type="parameterDouble" name="v" value="1" />
+      <p xsi:type="parameterDouble" name="x" value="1" />
+      <p xsi:type="parameterDouble" name="x2" value="1" />
+      <p xsi:type="parameterDouble" name="x3" value="1" />
+      <p xsi:type="parameterDouble" name="x4" value="1" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0471" description="" guid="07626c3c-a118-47c0-b84b-5f98e23eeb38" fileName="92a5f255-b28e-43ee-be0a-903f7916027f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Display_Base_Shelf_03" description="" guid="0797cce7-256b-4ee2-be03-c60756a68a86" fileName="a6d95de0-6dd3-4ce5-8ec0-d04fe4092eea.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="400" />
+      <p xsi:type="parameterDouble" name="B3" value="0" />
+      <p xsi:type="parameterDouble" name="B5" value="170" />
+      <p xsi:type="parameterDouble" name="Ec" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="4.5" />
+      <p xsi:type="parameterDouble" name="H3" value="0" />
+      <p xsi:type="parameterDouble" name="Hbot" value="400" />
+      <p xsi:type="parameterDouble" name="Hshelf" value="300" />
+      <p xsi:type="parameterDouble" name="Htop" value="200" />
+      <p xsi:type="parameterDouble" name="L" value="300" />
+      <p xsi:type="parameterDouble" name="NbS" value="4" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B3102" description="" guid="0799fc6f-fc49-4757-a2ac-c0062da0597b" fileName="d4d3d27d-07e9-4b86-8087-259e4272c542.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Foldable 07" description="" guid="08119f80-bdbe-4878-972c-c7686376b26d" fileName="28c744b2-ad00-49cf-b8bd-1318b35b1b0b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="tronc_pyramide" description="" guid="090fedd6-4882-4795-ac49-4b8eb74e9b1e" fileName="163b399c-d439-4c9a-a636-5d0f1eabfc13.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Easel_01_small" description="" guid="0958397b-32bc-4496-89c1-c7246da73554" fileName="2a5d2fd0-4b46-4983-9b62-5727d2aed52d.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="10" />
+      <p xsi:type="parameterDouble" name="B" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="150" />
+      <p xsi:type="parameterDouble" name="HC" value="60" />
+      <p xsi:type="parameterDouble" name="L" value="65" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0225" description="" guid="0a0a206a-85b1-4063-b4e6-2ccdf2c0eede" fileName="c8ddfd45-1f42-42bb-a6f2-827d7e15a744.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F2037" description="" guid="0b05f290-4211-48e7-8683-f8bfc38a1316" fileName="1bd200a9-47e8-4e3d-8de3-8bc9a856506e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0175" description="" guid="0b7a6c86-4d43-49fa-89d1-bf01358947a0" fileName="12e4aa8f-d9b4-4682-b825-ccd80083be71.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0216" description="" guid="0b8a5d30-f782-481a-a920-84ec231bbd21" fileName="14547835-8124-4386-b555-2335dcdc4f6c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0402" description="" guid="0b8c0c7d-93b8-41ea-8706-f723c0d43b68" fileName="ef0d9a79-4578-4fcb-9e8d-dcc976909434.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0405" description="" guid="0c3e943b-ee2c-4db1-8131-87ee0601e436" fileName="018852b0-f4e2-49cc-a4e5-ac3105d80dd7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Totem 03 Triangle Slot" description="" guid="0c446d10-e41b-4d14-a510-7f1e3953b510" fileName="5d324126-c776-4a7f-97e0-3fc699b9a7bc.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Header Fronton 05" description="" guid="0c6c3722-47c4-4b2f-a2bc-c5833c0fa847" fileName="38d2d60e-8fe2-48e3-9800-201d8a044309.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Handholds_DISPLAY" description="" guid="0cc25c28-2661-49fd-9541-9b3ed3c12177" fileName="2a927120-3bb1-4a93-bfad-feaf2a5cd198.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="D" value="50" />
+      <p xsi:type="parameterDouble" name="Df" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Hhand" value="30" />
+      <p xsi:type="parameterDouble" name="Lhand" value="90" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Counter Display 01" description="" guid="0ceb2091-fc08-4cf3-892e-94468f3a820d" fileName="afdbb9e0-6d69-454a-9b11-2cf3c61ce6c8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="top_cover_427" description="" guid="0dfcd248-5b10-415a-a7bb-a18f5d336557" fileName="a05817bc-b203-4b6f-99dc-312ccf9bf0e8.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="20" />
+      <p xsi:type="parameterDouble" name="B2" value="307" />
+      <p xsi:type="parameterDouble" name="cs" value="4" />
+      <p xsi:type="parameterDouble" name="cw" value="4" />
+      <p xsi:type="parameterDouble" name="dp" value="7" />
+      <p xsi:type="parameterDouble" name="ds" value="3" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H6" value="105" />
+      <p xsi:type="parameterDouble" name="H7" value="50" />
+      <p xsi:type="parameterDouble" name="L3" value="208.02900695800781" />
+      <p xsi:type="parameterDouble" name="Ra" value="20" />
+      <p xsi:type="parameterDouble" name="Rc" value="10" />
+      <p xsi:type="parameterDouble" name="st" value="3" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="kk" description="" guid="0e7a514b-4912-4d92-9034-9b9b1b543416" fileName="d8077dac-f4ff-4e62-b13f-94027762eb87.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0909_Int" description="" guid="0ec5577a-849e-4ca5-b3bc-13de6b426a03" fileName="c2180d3b-b141-4c8e-8d8f-aa6ea6615dae.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0423" description="" guid="0f4f4de1-a86b-4529-847f-904f77cf5fe7" fileName="b1f278cb-367a-4c75-bc3d-18108fffe8bb.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0204" description="" guid="1023d3c4-4b23-4387-9b4f-0419e2ae73c9" fileName="f813ffd5-6289-467c-8f18-2d8bee367f68.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0300" description="" guid="10757fb3-5d37-40f4-8ded-7ebd82a0ec0b" fileName="6c5bb2e8-b926-4192-8554-42fe79c4398d.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0452_v2" description="" guid="10ae268f-e055-429e-b420-67314548ffbb" fileName="d8630f26-944c-4f5c-8825-adc3a296a013.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0948" description="" guid="11b266bd-697f-46bd-8324-7534cc579e25" fileName="28b6d00a-f3eb-4bb7-8ecb-67610c55e1d8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0231" description="" guid="12928b3d-3c8b-4b68-8fb8-aa2543234fb5" fileName="137a4650-a641-4609-a1b3-298e1f791b9b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Shelf 06 Base" description="" guid="12f2de87-1ba3-4269-a00f-1d6e7d0cc762" fileName="6e7ec67f-9f0c-494a-b702-f07b7a74018b.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="400" />
+      <p xsi:type="parameterDouble" name="D" value="30" />
+      <p xsi:type="parameterDouble" name="DR" value="7" />
+      <p xsi:type="parameterDouble" name="ep1" value="4.5" />
+      <p xsi:type="parameterDouble" name="Fshelf" value="60" />
+      <p xsi:type="parameterDouble" name="G" value="75" />
+      <p xsi:type="parameterDouble" name="Hb" value="300" />
+      <p xsi:type="parameterDouble" name="Hh" value="300" />
+      <p xsi:type="parameterDouble" name="Hshelf" value="300" />
+      <p xsi:type="parameterDouble" name="L1" value="600" />
+      <p xsi:type="parameterDouble" name="Llock" value="300" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0913_Ext" description="" guid="13077c2c-138f-461d-8844-6105132591a0" fileName="a89a569d-bb21-42eb-9136-29b78c8787ae.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0200_1/2" description="" guid="139d1d9c-c64f-42bc-8833-5a8c81746b38" fileName="1512b814-e411-425b-b6f6-d58a26757217.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="300" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="EcH" value="2" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="FB" value="150" />
+      <p xsi:type="parameterDouble" name="FL" value="150" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="hFB" value="0" />
+      <p xsi:type="parameterDouble" name="hFL" value="0" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="400" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="wFB" value="0" />
+      <p xsi:type="parameterDouble" name="wFL" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0703" description="" guid="1477e37f-43bd-4b94-9e1e-76a7d04fd19c" fileName="f2e2333c-9fea-41f9-89bf-d65a2bd87442.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4802" description="" guid="14df76dd-7ae1-4bea-8ea6-92d7f4b1975a" fileName="19b5866c-5a45-428c-a180-97a1bc5977ca.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0409_v2" description="" guid="15195999-9a94-4f4e-8d71-87ec69554b66" fileName="8c0744f6-3dfc-494a-adda-b7cf622a4812.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Easel_06_integrate" description="" guid="160dc69d-acf0-4bb0-a6a9-a84f6ea48c70" fileName="0a11b5f5-5481-4094-a0c6-18d92829826b.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="120" />
+      <p xsi:type="parameterDouble" name="Ag" value="10" />
+      <p xsi:type="parameterDouble" name="ep1" value="1" />
+      <p xsi:type="parameterDouble" name="P" value="60" />
+      <p xsi:type="parameterDouble" name="r2" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="15" />
+      <p xsi:type="parameterDouble" name="v6" value="1" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0206" description="" guid="163462e8-aa0f-4369-accf-1c0f4089f776" fileName="b3af5238-d3c2-4bce-a277-709ed3c0ab6e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 04" description="" guid="163f991d-1eb5-4814-9f97-141d96144fe4" fileName="28384e60-1096-4ddd-b838-ab2c0c5abb14.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0903" description="" guid="1658c998-e917-46d0-af98-4ce1300add98" fileName="57a76f72-cb3d-4207-b4dd-f2f4dad4e4b3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0914_Int" description="" guid="16a86983-bd32-4eb0-8bd7-b9dbf509e0f7" fileName="8081ecaa-7872-4685-b96f-b7d2162229e9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0313" description="" guid="16b0ff60-703f-4d89-ba6f-cb85a5a91ea8" fileName="7d880a5d-5a49-4ab7-b93e-c9acb6d670f6.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Folder_Display_01 (1)" description="" guid="16b2142f-b020-41b3-88fa-9dabece7ba77" fileName="7775481c-14e3-4f3f-aa3a-30407d0f5766.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0900" description="" guid="175e662d-127f-4a91-8ae8-fd7cebd0d479" fileName="3a774c9b-1aa6-4ae5-87e9-8624e67f9306.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Lflap" value="150" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Closure_panel 01" description="" guid="17780b4a-c2f8-4af9-abc8-89ec65781cef" fileName="0f194c72-669c-487a-b851-0fe5d31d4ecc.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="b" value="50" />
+      <p xsi:type="parameterDouble" name="bp" value="0" />
+      <p xsi:type="parameterDouble" name="cl" value="20" />
+      <p xsi:type="parameterDouble" name="d" value="1" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="l" value="100" />
+      <p xsi:type="parameterDouble" name="r" value="20" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v" value="6" />
+      <p xsi:type="parameterDouble" name="z1" value="1" />
+      <p xsi:type="parameterDouble" name="z2" value="1" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0456" description="" guid="17d07bb3-4b09-4c04-a3ab-16bed49fa52f" fileName="29393d6b-d567-4a88-b377-e0f9681a3163.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Kiosk / Totem 01 " description="" guid="180c82be-80a5-4b4c-b3a6-b82bcaefe3f6" fileName="bb588595-dc2f-4bb9-a3ab-99005dd8ebf6.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Counter Display 11" description="" guid="1860ce8c-d148-4db4-a65a-b0a9b07bab2b" fileName="b2e4f539-b16d-4a92-9a15-971764e23997.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="testposeH" description="" guid="18644f09-6a2e-4c49-9a2e-e09b64d0629c" fileName="5ee07733-2a98-4316-9d59-119f4a304a02.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0413" description="" guid="194c15ff-3ad8-44f0-b307-f2876a8670d2" fileName="7bd4f445-a650-47ed-bf23-c55d9a2ec93a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Part Totem Leg 02" description="" guid="1a5298ea-597f-4978-9dea-98ef7a3610d4" fileName="03ff856f-824d-4cb1-b556-4ed337c43120.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="500" />
+      <p xsi:type="parameterDouble" name="Ec" value="10" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="150" />
+      <p xsi:type="parameterDouble" name="L2" value="100" />
+      <p xsi:type="parameterDouble" name="Lt" value="200" />
+      <p xsi:type="parameterDouble" name="R" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B3002" description="" guid="1ab694d2-480c-4ed9-9b05-37016e6eec08" fileName="a0b996ac-db13-4cbe-a855-d5c6e79276c0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Bottle Neck Lock" description="" guid="1ba94064-117d-4584-b7ad-3ed5c484a523" fileName="abd6e0f0-bdf9-4e52-8c62-f63b82522468.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A2" value="84.300003051757812" />
+      <p xsi:type="parameterDouble" name="B2" value="85" />
+      <p xsi:type="parameterDouble" name="D" value="20" />
+      <p xsi:type="parameterDouble" name="DBW" value="4" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exR1" value="12" />
+      <p xsi:type="parameterDouble" name="R1" value="36" />
+      <p xsi:type="parameterDouble" name="R2" value="12" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B2005" description="" guid="1c044993-e724-4548-a35a-049390da59e6" fileName="27aa55f2-691f-4376-929b-482e32a6587d.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0973" description="" guid="1c9abc71-a90c-4350-84aa-4062cfd06056" fileName="b3ba8dbf-21fd-45d0-87b2-a7da859e0584.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Part Totem Leg 03" description="" guid="1cceaaca-4fe6-4734-b47d-193934c6619a" fileName="72b3424a-e082-4139-99f4-77a97c320c47.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Ch" value="50" />
+      <p xsi:type="parameterDouble" name="dbw" value="10" />
+      <p xsi:type="parameterDouble" name="Ec" value="10" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="200" />
+      <p xsi:type="parameterDouble" name="L2" value="100" />
+      <p xsi:type="parameterDouble" name="Lt" value="200" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Fond auto PICADOR" description="" guid="1cd16bb8-05f9-4256-945b-5072cf49e574" fileName="a779c5dd-17b0-4b39-b3bb-6ccc78ef56a5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Corner_Support" description="" guid="1db0c9a8-598e-4f43-8bec-5f3449bc887a" fileName="66fefdbb-e1a3-4398-9ac9-c43cfbee4f39.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ag" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="50" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0411_v2" description="" guid="1e00802b-47a8-407d-991d-d9b1178c4c38" fileName="3b38ad90-ac2e-4df8-9bd6-b8a5fff678c0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 01" description="" guid="1e972b3c-88b0-415e-8fdb-467de283048b" fileName="c387bc4c-4a64-418a-878d-b426c6db2fa2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0404" description="" guid="1f22b627-668b-4fe5-a6c5-21c1ac12f229" fileName="c6a21c28-b28f-46ce-9601-13413768ba1a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Semi_Auto_Closure_v2" description="" guid="2015adce-a857-49c8-b051-b6891b90b941" fileName="cbbb446a-def3-4f82-8214-088fb0bb130c.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="100" />
+      <p xsi:type="parameterDouble" name="b" value="50" />
+      <p xsi:type="parameterDouble" name="d" value="3" />
+      <p xsi:type="parameterDouble" name="d2" value="0" />
+      <p xsi:type="parameterDouble" name="e" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="15" />
+      <p xsi:type="parameterDouble" name="h" value="60" />
+      <p xsi:type="parameterDouble" name="ovl" value="0" />
+      <p xsi:type="parameterDouble" name="r1" value="4" />
+      <p xsi:type="parameterDouble" name="r2" value="7" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="2 Dividers" description="" guid="20e67a95-a831-4f54-9b17-e0b80b1fd9da" fileName="f5744a80-9437-4f4a-9029-8d578744136b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Table_Display_06" description="" guid="2162b794-97a0-4846-844e-62a7b392a90e" fileName="302b85f3-da7d-4b84-8cf9-4db6ab9a7a21.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0501" description="" guid="245194fa-4663-4311-bbc6-8d9e82d80109" fileName="e8358cbc-b051-4d7d-b53a-f23f266bf600.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Box_4_side_Walls_F0458" description="" guid="24696740-797a-44f4-ae2f-62cd387faaaa" fileName="04f0ebe8-ee03-4ee8-bf57-c5a80b847826.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="300" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="ExtL" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="100" />
+      <p xsi:type="parameterDouble" name="H2" value="100" />
+      <p xsi:type="parameterDouble" name="L1" value="400" />
+      <p xsi:type="parameterDouble" name="t6" value="-6" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Display_Shelf_Cut_01" description="" guid="24e4159e-1e67-47fd-99b6-fcb1d9942c45" fileName="5bf29c0d-3bd1-41d3-9967-0467d90ed2b3.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="60" />
+      <p xsi:type="parameterDouble" name="B2" value="30" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Hanging_hole_HARDWARE" description="" guid="2552714a-167d-4ce6-9929-d4106dfce8c3" fileName="6ab1acbd-7f1c-4bc0-b6f4-7f9bfd414686.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="L" value="32" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="W" value="6" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F8002" description="" guid="25ac60a7-9464-4e38-ada9-ddadd3e4544e" fileName="56df8d2c-d639-43e5-8cd1-0100f219dad2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Box Pallet 02" description="" guid="25f7f62e-9eac-4665-a72b-dddde01fc58e" fileName="994469e3-77e5-40e4-9fbe-e6b15dc482ca.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0512 Style1" description="" guid="27747f8b-fa11-4153-8e88-3c6d6977fea1" fileName="bb2bd953-847c-483a-a5d3-056f5f3d18e8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0412" description="" guid="2790c85a-9090-4bbc-b972-d8b2052bc8c7" fileName="5d62a75b-4d5a-4c8b-b501-e103b15427ca.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0602" description="" guid="27f57880-6c9b-4da5-8a68-41d110b55876" fileName="285f8b62-a17a-4b76-885d-62611f8a66b2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0207_Style2" description="" guid="2873f13b-b774-4612-8f2a-ef214b352940" fileName="3ce4b150-249c-4b52-a47d-48de00ea047a.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="200" />
+      <p xsi:type="parameterDouble" name="DivLock" value="20" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="EcH" value="2" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="HDiv" value="152" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L" value="300" />
+      <p xsi:type="parameterDouble" name="t1" value="7" />
+      <p xsi:type="parameterDouble" name="t2" value="8" />
+      <p xsi:type="parameterDouble" name="t3" value="8" />
+      <p xsi:type="parameterDouble" name="t4" value="7" />
+      <p xsi:type="parameterDouble" name="t5" value="14" />
+      <p xsi:type="parameterDouble" name="t6" value="12" />
+      <p xsi:type="parameterDouble" name="t7" value="12" />
+      <p xsi:type="parameterDouble" name="t8" value="16" />
+      <p xsi:type="parameterDouble" name="t9" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0914 ext" description="" guid="28c7ad71-2e03-42d3-9bf4-bd4c34391ab5" fileName="0849b045-3972-4422-8afb-1e4bb98b2ace.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0200" description="" guid="29e65a55-de33-4963-8e1f-dede5e9fd3c9" fileName="b9d8debc-dea3-4872-a3de-d2e25b6d2042.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Full_Wrapped_01" description="" guid="2ab07041-4fd6-47a3-9d60-767b77af518f" fileName="bfb6e2e0-690e-49db-955b-c47224109a0a.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="700" />
+      <p xsi:type="parameterDouble" name="B" value="400" />
+      <p xsi:type="parameterDouble" name="E" value="14" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Flaps" value="0" />
+      <p xsi:type="parameterDouble" name="R" value="25" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="2" />
+      <p xsi:type="parameterDouble" name="v2" value="3" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F8022" description="" guid="2b4d2e24-546f-4272-baf8-ddb157378e61" fileName="4b393fd2-3ba3-4bfe-8480-b183b456af6a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="*Smart_Box" description="" guid="2b88e9cc-72ec-46e7-b354-85d42f7a8f1a" fileName="a52a5fc4-9222-43f2-86c0-e6ecf7cff2bc.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0210" description="" guid="2c423ae5-2fbc-434a-bd60-070d492a3ebe" fileName="cff17f48-361b-42c3-a7fa-a0a4dcff9e2a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0406" description="" guid="2c758848-9698-4382-803c-fc5a4c6a81c1" fileName="32069f4f-5862-4851-b4a4-5e34fd51c3b1.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0905_Int" description="" guid="2d010426-0831-4681-8d8d-bd4127e798d0" fileName="4120c4b7-7c9c-4201-88cb-639ea93a0da2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0302" description="" guid="2d061fa1-e04e-4b92-84b1-bda34894793e" fileName="c40a8752-cd6c-49f0-b3c8-56cb4d04b294.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Découpe Collage 3 Cache poussière" description="" guid="2d3aeb3a-47bb-476d-97cf-dd5650b3c7c9" fileName="1c1cbb27-4704-4942-96a1-466e9ffd0f8f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0401" description="" guid="2d712a19-2ce7-429a-8cc3-739121391e4e" fileName="8204b26d-480a-4edd-a00b-8c6f55aab737.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0217_Style2" description="" guid="2dceb360-1d1a-448e-837c-b066493e2897" fileName="bcd5f993-0286-45cf-98a9-5a07a1f2d053.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="Dlock" value="20" />
+      <p xsi:type="parameterDouble" name="EcL" value="4" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="FB" value="80" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="Hlock" value="60" />
+      <p xsi:type="parameterDouble" name="L" value="400" />
+      <p xsi:type="parameterDouble" name="R1" value="20" />
+      <p xsi:type="parameterDouble" name="R2" value="4" />
+      <p xsi:type="parameterDouble" name="t1" value="7" />
+      <p xsi:type="parameterDouble" name="t2" value="8" />
+      <p xsi:type="parameterDouble" name="t3" value="8" />
+      <p xsi:type="parameterDouble" name="t4" value="7" />
+      <p xsi:type="parameterDouble" name="t6" value="-4" />
+      <p xsi:type="parameterDouble" name="t7" value="6" />
+      <p xsi:type="parameterDouble" name="t8" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Dbl_Wall_v2" description="" guid="2dfe5684-676d-4851-b90a-f8a2b2102b3d" fileName="dbcff921-0701-4dca-a0d9-33e7f00b0dac.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="agT1" value="15" />
+      <p xsi:type="parameterDouble" name="B1" value="152" />
+      <p xsi:type="parameterDouble" name="B2" value="153.75" />
+      <p xsi:type="parameterDouble" name="B4" value="149.5" />
+      <p xsi:type="parameterDouble" name="D1" value="146" />
+      <p xsi:type="parameterDouble" name="dbw" value="6" />
+      <p xsi:type="parameterDouble" name="dec" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1" value="98" />
+      <p xsi:type="parameterDouble" name="H2" value="93.25" />
+      <p xsi:type="parameterDouble" name="H3" value="97" />
+      <p xsi:type="parameterDouble" name="H4" value="104" />
+      <p xsi:type="parameterDouble" name="L1" value="210" />
+      <p xsi:type="parameterDouble" name="L2" value="206" />
+      <p xsi:type="parameterDouble" name="mth" value="6" />
+      <p xsi:type="parameterDouble" name="mtl" value="33" />
+      <p xsi:type="parameterDouble" name="Pos" value="40" />
+      <p xsi:type="parameterDouble" name="R1" value="3" />
+      <p xsi:type="parameterDouble" name="Rc" value="10" />
+      <p xsi:type="parameterDouble" name="T1" value="5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="tml" value="33" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F2036" description="" guid="2fb93738-94fd-4f3e-bbe0-5dda622ff6e2" fileName="99d86419-6f90-475d-b979-c05cafb1f224.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4821" description="" guid="30e074ad-bd96-42de-8233-225504a6ea2d" fileName="b37ac389-2254-416f-ac32-aa4f784f3cb0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0215" description="" guid="30f7e6e3-3dfa-44e1-8cf2-137523c8ca07" fileName="9949b98a-3c65-4425-bbd5-c82a36c4c061.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Part Header 04" description="" guid="3110d142-7e40-48ab-b4f5-d74224a64ebe" fileName="731e9d84-c219-4b4d-902a-8144d8fc1f2d.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ep1" value="0" />
+      <p xsi:type="parameterDouble" name="H" value="120" />
+      <p xsi:type="parameterDouble" name="L" value="250" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="1 Divider" description="" guid="311bbb95-f6d3-4652-addb-2f83d04dcd81" fileName="cfc74bc7-a1b6-47ba-a41a-d52f7708c369.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="top_cover_421" description="" guid="3198407d-c697-4060-b1f3-5413ee762759" fileName="ce3a5138-ddc2-4146-aefb-8a370921d2f7.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B2" value="300" />
+      <p xsi:type="parameterDouble" name="cs" value="6" />
+      <p xsi:type="parameterDouble" name="cw" value="6" />
+      <p xsi:type="parameterDouble" name="dp" value="9" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="L3" value="412" />
+      <p xsi:type="parameterDouble" name="Pr" value="30" />
+      <p xsi:type="parameterDouble" name="Rp" value="20" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Demi_PRG" description="" guid="31fed55d-5350-4177-af4d-08064520b0c4" fileName="9809509d-5a69-4768-a8ae-481a1203ec81.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4020" description="" guid="32d44b56-33e6-4b51-aff0-554b6102e717" fileName="208aedd7-93ee-4ec3-b862-b829f1ec4063.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0911" description="" guid="32e7bc7c-db20-4b94-a757-6d3faf043a56" fileName="cedacedd-3c29-45f0-9b2c-bfd3c39d9726.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A2420" description="" guid="3373786d-e9b4-4de9-a4ef-033238138c8b" fileName="f685a928-43d1-4865-8178-0771d1f14278.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0504_Style1" description="" guid="33be49f0-1a32-4fb7-b786-0b347518e18f" fileName="b85461ad-5872-4a33-9383-ee0202cba936.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Header Fronton 01" description="" guid="33d7e315-95dd-4ff7-8b43-9b51025000cc" fileName="7320f731-87b3-463d-9c4b-45ba2fb870cd.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Handholds_FEFCO" description="" guid="34177251-c4df-4b14-b16a-2990710e99bc" fileName="d9946204-85f1-497d-9734-c24b4b4f5ac5.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="D" value="50" />
+      <p xsi:type="parameterDouble" name="Df" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Hhand" value="30" />
+      <p xsi:type="parameterDouble" name="Lhand" value="90" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Demi_PRD" description="" guid="34248949-96ff-457b-9e2a-a84c1bde9298" fileName="534ce5f7-92c6-43e3-94fc-457f405dab55.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="CUV 4 " description="" guid="35670880-a77f-4580-9871-c1c5a50d95c0" fileName="d38c27d9-658f-4ff6-bd0b-0171d46888c5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0460" description="" guid="360fb259-65f5-49b0-b05e-4a79035e1095" fileName="20ed5162-5316-4a6b-b7ed-a58a79e96f36.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0140" description="" guid="3776cec9-dd1e-4086-a016-6ab1701c94f1" fileName="7afdd5fd-c613-4389-9281-04027018d567.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0910_Ext" description="" guid="379e59cf-73a8-45d9-9759-d15712d3ad42" fileName="593c80ef-95f1-49e8-9302-8fabcc7e9144.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0410_v1" description="" guid="386359f9-d379-4920-826c-02392c0b2850" fileName="beec2052-95fe-4416-8407-6367769b57c7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Part Holder 04" description="" guid="3971f8bf-23f5-44ba-a954-f9e532f0d3a1" fileName="b27c7448-00cb-4fc0-802b-e6903380472c.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="40" />
+      <p xsi:type="parameterDouble" name="B3" value="10" />
+      <p xsi:type="parameterDouble" name="ep1" value="0" />
+      <p xsi:type="parameterDouble" name="H" value="120" />
+      <p xsi:type="parameterDouble" name="L" value="110" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="90" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0921_Ext" description="" guid="39d42571-dd35-45c7-a89c-aa075bc2c52b" fileName="9002b7a4-c57f-4c3e-bc11-9df954a700f9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0621" description="" guid="39f38b8c-bd05-4e68-ade8-f5305704af83" fileName="8a44c994-12e3-419a-9942-e515da950676.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0712" description="" guid="3a6e9756-8171-418a-8e21-f98720596d66" fileName="5e548cd8-9863-479b-b880-326b05eb5f77.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Side_flap 02" description="" guid="3a8c1aed-f89c-4bb9-a6e7-42ad128ba10b" fileName="2a088740-645c-4a6a-ad28-5f9f666859be.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="15" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="h" value="25" />
+      <p xsi:type="parameterDouble" name="l" value="51" />
+      <p xsi:type="parameterDouble" name="r" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v" value="2" />
+      <p xsi:type="parameterDouble" name="x" value="3.5" />
+      <p xsi:type="parameterDouble" name="y" value="3" />
+      <p xsi:type="parameterDouble" name="z" value="3.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B4020 53" description="" guid="3aed8aa0-775e-4e11-8f30-5f40c0247880" fileName="8c71303e-90e0-4508-ae35-5aae9d2a1779.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0207_Style1" description="" guid="3b02e387-0e15-4219-94df-09d67a365a51" fileName="d16df1d9-4882-4d5a-90d4-64e929e97492.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="B1" value="308" />
+      <p xsi:type="parameterDouble" name="B2" value="307" />
+      <p xsi:type="parameterDouble" name="Ch1" value="28" />
+      <p xsi:type="parameterDouble" name="Ch2" value="23" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="EcH" value="2" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="182" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="HDiv" value="184" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="407" />
+      <p xsi:type="parameterDouble" name="L2" value="408" />
+      <p xsi:type="parameterDouble" name="t10" value="-6" />
+      <p xsi:type="parameterDouble" name="t6" value="12" />
+      <p xsi:type="parameterDouble" name="t7" value="8" />
+      <p xsi:type="parameterDouble" name="t9" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="PLV Canadien Divider 02" description="" guid="3b74c1d7-932a-41aa-8d43-98a4c2314a6e" fileName="54063956-4f17-4f2d-8dce-ae7bca456e00.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1Div" value="300" />
+      <p xsi:type="parameterDouble" name="Ec" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="5" />
+      <p xsi:type="parameterDouble" name="F2" value="100" />
+      <p xsi:type="parameterDouble" name="H2" value="300" />
+      <p xsi:type="parameterDouble" name="NbB" value="5" />
+      <p xsi:type="parameterDouble" name="RF2" value="20" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="10" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Divider_H" description="" guid="3de6da21-70c4-4ed6-9ec4-80d69d03aa26" fileName="44adc0e1-9339-4832-96b8-49594baf0f87.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="400" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="L" value="1120" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Totem 06 Glued" description="" guid="3f7234d7-2efc-4b65-b1ac-3711f8b522d8" fileName="8a55c950-af0c-4d6b-8684-fe045dad4afb.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Fourreau wrap std" description="" guid="3f8d12d3-fd2a-4c6d-bcbc-28ec10fa854d" fileName="233c8581-78d0-45af-ab9c-e44ad37bc5a9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Holder 02" description="" guid="406a49a7-d49c-4c6c-b2d1-8ec57af0dbb2" fileName="e980f957-e751-4f27-8205-991018deb8b4.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 08 v2" description="" guid="40a95be1-fdea-4ff1-a0a6-648305cc6c5e" fileName="031fd50a-21b0-44ec-ba3e-f603508a7e91.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Part Holder 02" description="" guid="420c2c0a-2cb5-4026-8182-c8faff12cee1" fileName="696932fa-e5cb-42ed-91f2-e6f59ad954f6.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="220" />
+      <p xsi:type="parameterDouble" name="Add" value="0" />
+      <p xsi:type="parameterDouble" name="B" value="30" />
+      <p xsi:type="parameterDouble" name="Cut" value="1" />
+      <p xsi:type="parameterDouble" name="E1" value="20" />
+      <p xsi:type="parameterDouble" name="E2" value="30" />
+      <p xsi:type="parameterDouble" name="E3" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="200" />
+      <p xsi:type="parameterDouble" name="L1" value="120" />
+      <p xsi:type="parameterDouble" name="L2" value="20" />
+      <p xsi:type="parameterDouble" name="L3" value="5" />
+      <p xsi:type="parameterDouble" name="L4" value="5" />
+      <p xsi:type="parameterDouble" name="R" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="3" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="folding_shelf_01" description="" guid="420db546-1260-4492-9f68-8ef89a063e80" fileName="da5e35e0-adc1-4778-96bb-89c56f5be118.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="264" />
+      <p xsi:type="parameterDouble" name="DW" value="8" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="F1" value="60" />
+      <p xsi:type="parameterDouble" name="F2" value="40" />
+      <p xsi:type="parameterDouble" name="H1" value="100" />
+      <p xsi:type="parameterDouble" name="L1" value="600" />
+      <p xsi:type="parameterDouble" name="Lk" value="100" />
+      <p xsi:type="parameterDouble" name="M" value="4" />
+      <p xsi:type="parameterDouble" name="Ps" value="30" />
+      <p xsi:type="parameterDouble" name="R" value="20" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Half_Automatic_Style1" description="" guid="42381e7e-7b13-4e89-896d-b3d0095220de" fileName="cfbc3adf-3570-4373-a35c-1bf5662075bf.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Ag1" value="20" />
+      <p xsi:type="parameterDouble" name="Ag2" value="10" />
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="B1" value="302" />
+      <p xsi:type="parameterDouble" name="B2" value="302" />
+      <p xsi:type="parameterDouble" name="ChX" value="30" />
+      <p xsi:type="parameterDouble" name="ChY" value="30" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="EcR" value="4" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="300" />
+      <p xsi:type="parameterDouble" name="Hbc" value="0" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="402" />
+      <p xsi:type="parameterDouble" name="L2" value="392" />
+      <p xsi:type="parameterDouble" name="Lock" value="5" />
+      <p xsi:type="parameterDouble" name="Lock2" value="0" />
+      <p xsi:type="parameterDouble" name="t6" value="4" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="PLV Part Header 01" description="" guid="427882b7-933b-4246-ace8-a293649a6ab8" fileName="40cf690d-55ef-43f7-b3f8-808d81da6294.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="F1" value="50" />
+      <p xsi:type="parameterDouble" name="F2" value="30" />
+      <p xsi:type="parameterDouble" name="H" value="120" />
+      <p xsi:type="parameterDouble" name="L" value="250" />
+      <p xsi:type="parameterDouble" name="rF1" value="4" />
+      <p xsi:type="parameterDouble" name="rH" value="15" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B4022 61" description="" guid="42815f7f-5f9b-4d89-ad96-c9a021983a09" fileName="e521a54a-f911-4a07-8dda-d9d9396b7d49.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0610" description="" guid="42bc3d34-b12a-40b9-a62b-a580d63faf19" fileName="78206565-fb9b-41fc-b417-afff998d3ea5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_Glue_Flap_Fefco" description="" guid="434f6537-264b-4dbb-986c-25b3e2bc4450" fileName="55790366-5fe7-403f-bd0c-bc118c8e67dd.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="aG" value="15" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exG" value="50" />
+      <p xsi:type="parameterDouble" name="G" value="25" />
+      <p xsi:type="parameterDouble" name="G1" value="0" />
+      <p xsi:type="parameterDouble" name="G2" value="0" />
+      <p xsi:type="parameterDouble" name="G3" value="0" />
+      <p xsi:type="parameterDouble" name="G4" value="4" />
+      <p xsi:type="parameterDouble" name="hG" value="100" />
+      <p xsi:type="parameterDouble" name="rG" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Folded_closure_v1" description="" guid="449364d3-f1eb-4de3-a508-d894bb2fd67f" fileName="d36b95b4-5d0a-4795-874d-527dfaa43d6c.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="280" />
+      <p xsi:type="parameterDouble" name="B" value="80" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="F1" value="76" />
+      <p xsi:type="parameterDouble" name="g" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="H2" value="80" />
+      <p xsi:type="parameterDouble" name="Lk" value="80" />
+      <p xsi:type="parameterDouble" name="r" value="1" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="16" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A1011" description="" guid="457011ad-af42-4cbc-8410-a2020d1cc2a6" fileName="5fd9c2b8-e172-43fd-bd8e-742ec3bf3a1c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0200" description="" guid="45f99ef2-1648-48b4-a4b6-a84a918a0b26" fileName="9356eb3b-0971-4633-b281-1cb8c1493d74.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="300" />
+      <p xsi:type="parameterDouble" name="B2" value="300" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="EcH" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="FB" value="150" />
+      <p xsi:type="parameterDouble" name="FL" value="150" />
+      <p xsi:type="parameterDouble" name="G" value="25" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="hFB" value="0" />
+      <p xsi:type="parameterDouble" name="hFL" value="0" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="400" />
+      <p xsi:type="parameterDouble" name="L2" value="400" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="wFB" value="0" />
+      <p xsi:type="parameterDouble" name="wFL" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Display_Shelf_Cut_03" description="" guid="45fcd94a-c231-4ed8-a0b5-a8c3ab72279d" fileName="f91aec2d-cb04-4d52-bb0c-2f2bf01a0976.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ag" value="45" />
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="E" value="5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Lk" value="100" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0449" description="" guid="46cfaa70-c19f-4c71-869c-27553fb51ea7" fileName="d193de73-97be-43d4-a5af-9b78c80f9db3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B2001 50" description="" guid="488d72af-3dd2-414d-9e9f-35f984faf715" fileName="b87a8eda-9528-4068-bebe-c94c33deb4b3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0320" description="" guid="49a5c484-97fd-493e-ad08-6723070d7620" fileName="6e230ee5-8e42-4670-8fae-7de2b97ae01b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Canadien Lock 01" description="" guid="49c9bd07-8703-420b-a527-1fbe4e7dc260" fileName="7c51b6cd-175c-4806-81bd-6a7410b755ae.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Bk" value="60" />
+      <p xsi:type="parameterDouble" name="ecLk" value="15" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exLk" value="60" />
+      <p xsi:type="parameterDouble" name="Lk" value="200" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0415" description="" guid="4b7a29ba-d90f-4983-82a9-51e014cdd820" fileName="66e1008c-7612-4b35-a486-d6a9dbe8f794.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4423" description="" guid="4b8eedd7-07f5-413b-b6db-85cf8d8f0bda" fileName="41a991d9-df50-4fe1-bf90-1f87fcb9e718.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Five_Panels" description="" guid="4c70d7cd-1c4b-43fe-9582-572a3bd05f54" fileName="682190be-e869-49d6-bde4-d77311c8ea99.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="aP1" value="15" />
+      <p xsi:type="parameterDouble" name="aP5" value="15" />
+      <p xsi:type="parameterDouble" name="ep1" value="1" />
+      <p xsi:type="parameterDouble" name="P1" value="100" />
+      <p xsi:type="parameterDouble" name="P2" value="200" />
+      <p xsi:type="parameterDouble" name="P3" value="200" />
+      <p xsi:type="parameterDouble" name="P4" value="200" />
+      <p xsi:type="parameterDouble" name="P5" value="100" />
+      <p xsi:type="parameterDouble" name="P6" value="400" />
+      <p xsi:type="parameterDouble" name="th1" value="1" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A6020" description="" guid="4cca72f7-22e5-4b27-ab96-78e51db3e09b" fileName="c321ebae-ee22-473a-bdfe-12ddc98fbeaf.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0930" description="" guid="4cd719e7-dbe9-45a9-8213-1f689f725df0" fileName="72283294-7beb-4df6-80b8-b87a00dafa90.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0207_Style1" description="" guid="4d01d55a-fd47-4a47-b824-e39e7d4707ab" fileName="8773ae42-943e-4947-a89c-cf4f4345d05a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0932" description="" guid="4de83a84-f3e9-46a7-84a9-85dbf280009d" fileName="a85c9c20-6a11-49ea-a8f6-e5a3307abcef.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Counter Display 03" description="" guid="4e91d74b-b322-4cf8-9535-b1ca84b24b17" fileName="89d3ab44-7641-4826-b95a-375357a8be26.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0942" description="" guid="4ebb41ae-7f7f-45b5-aa93-efb17625b489" fileName="b01da46d-6c77-4ba4-a9b9-804d468c7c92.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Table_Display_03" description="" guid="4f12d62d-e8cb-4d60-99fe-c2922ef016f9" fileName="8ceaa631-5c32-4f74-98ef-47c1031b6470.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0217_Style2" description="" guid="508a5aba-a3dd-4ce6-8815-ed15b5a2554a" fileName="a4081f38-6a61-4fa0-8779-a79957d7ea24.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B1402" description="" guid="5149e103-0783-4541-bb49-b0aabe6dd52c" fileName="14c6b187-888c-48e4-a953-2d8e0aba09e5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B_1004" description="" guid="51f669f1-666f-49a1-b6b6-16d4017e0097" fileName="7b773e53-89b6-45d1-8e98-c5e53bfae64f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A2320" description="" guid="521586ed-fd7f-426d-90bc-595bc3711c4c" fileName="8d10b321-ae54-41fb-8e4d-f64207351c26.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Part Header 05" description="" guid="527afb35-3590-4824-aff7-dbbb2a454b59" fileName="01c5f5a4-a8e9-4742-abe8-1998f2a85040.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Ag" value="10" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1" value="120" />
+      <p xsi:type="parameterDouble" name="H2" value="20" />
+      <p xsi:type="parameterDouble" name="L1" value="250" />
+      <p xsi:type="parameterDouble" name="L2" value="80" />
+      <p xsi:type="parameterDouble" name="L3" value="20" />
+      <p xsi:type="parameterDouble" name="R1" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Lock_Tab_03" description="" guid="52b13ef9-bea8-4cdf-841e-6b29c8aea0ea" fileName="ee71796f-5e5b-495c-89b5-5f2f228997e0.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A1" value="100" />
+      <p xsi:type="parameterDouble" name="B1" value="30" />
+      <p xsi:type="parameterDouble" name="Ch1" value="6" />
+      <p xsi:type="parameterDouble" name="Ch2" value="3" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exB1" value="3" />
+      <p xsi:type="parameterDouble" name="gap1" value="1" />
+      <p xsi:type="parameterDouble" name="gap2" value="1" />
+      <p xsi:type="parameterDouble" name="L1" value="20" />
+      <p xsi:type="parameterDouble" name="R1" value="5" />
+      <p xsi:type="parameterDouble" name="R2" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0946" description="" guid="52b1684a-0bfb-48ed-b64c-0812355f4e34" fileName="8f0aec8c-a279-4463-bf57-6290013a9fcf.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0425" description="" guid="52c94c34-2567-4fbd-8105-d3b371685ef0" fileName="92906331-3a77-4d7e-b6ac-cc7579b04ec7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Side_flap 01" description="" guid="5319e50e-a92a-4420-b2b9-7bb3dbb6890e" fileName="55dd20ac-d3af-4f92-a60c-c2dc8a2de863.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="15" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="h" value="25" />
+      <p xsi:type="parameterDouble" name="l" value="51" />
+      <p xsi:type="parameterDouble" name="r" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v" value="2" />
+      <p xsi:type="parameterDouble" name="x" value="3.5" />
+      <p xsi:type="parameterDouble" name="y" value="3" />
+      <p xsi:type="parameterDouble" name="z" value="3.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B3104" description="" guid="545505a7-b7a5-4a49-ad8c-6b24764541ae" fileName="54747a83-6cd3-44e4-89a3-033eea5a5002.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0909_Ext" description="" guid="55096022-f63d-4f03-a6ce-e94c9ebc6ac2" fileName="3c80c42a-7a36-408d-b2b7-2b2be322c103.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0101" description="" guid="55c6d8d4-a403-4d2d-b012-fda6b3930717" fileName="7cb164e2-c35c-4a1d-adf5-ede03b014c22.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0309" description="" guid="560b4429-2e2f-4432-9d44-4a33bec4afc0" fileName="521cb1e2-0e8e-4197-a02a-73575a068f19.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="CUV4COUV" description="" guid="561509f6-7684-4e83-8cb5-71e239a69c8e" fileName="d28ae540-3d6f-4232-9081-a730f363d49b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0208" description="" guid="564d1564-7b31-4e6f-b22e-f35e107d769f" fileName="ea36911a-f9d2-4576-bce2-6f7cc7e00ff1.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Box Pallet 03" description="" guid="569f04b2-5d0a-42a6-b471-f2145b0191cb" fileName="9a0c42e9-5482-42da-9ddb-983b37ecbe39.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0605" description="" guid="583b3ac4-f22a-4cd5-b0cc-8b01d60a59bd" fileName="f7d7a78b-cd57-4cc9-9aee-884a98ecdb43.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Display_Shelf_Cut_02" description="" guid="5971f41c-ced7-49e7-8c4b-449261937055" fileName="5d95596d-b88d-470d-af1d-c2eccb248bc5.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="50" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="T" value="15" />
+      <p xsi:type="parameterDouble" name="T1" value="20" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Tray_0452_0453" description="" guid="5a3d6e0d-b276-4797-b498-d04383b1e3f4" fileName="9a1797d9-6cf9-4937-9789-59b43afb8f0e.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="220" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="Ec2" value="8" />
+      <p xsi:type="parameterDouble" name="Ec3" value="4" />
+      <p xsi:type="parameterDouble" name="EcH" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1" value="100" />
+      <p xsi:type="parameterDouble" name="Hbc" value="0" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="400" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A1111" description="" guid="5a678d38-c672-44cd-a9d9-5902f3d0759e" fileName="f14c5eb1-699f-4096-ace1-ce4d14e05197.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Canadien Divider 03" description="" guid="5b759781-1682-4388-b00c-fc5de14818e1" fileName="65addda9-855a-409e-a380-7e2cba17e76e.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B2Div" value="300" />
+      <p xsi:type="parameterDouble" name="B3Div" value="200" />
+      <p xsi:type="parameterDouble" name="Ec" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="5" />
+      <p xsi:type="parameterDouble" name="F2" value="100" />
+      <p xsi:type="parameterDouble" name="H2" value="300" />
+      <p xsi:type="parameterDouble" name="L1Div" value="300" />
+      <p xsi:type="parameterDouble" name="NbB" value="2" />
+      <p xsi:type="parameterDouble" name="NbL" value="3" />
+      <p xsi:type="parameterDouble" name="RF2" value="20" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="10" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0454" description="" guid="5bac3357-997c-4a65-bf8e-7a49628307bd" fileName="215a712e-9bf1-48c5-9bd9-82fee7d35510.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0330" description="" guid="5bf3a328-987e-43f8-966e-93f484b81b4b" fileName="f38a7990-9846-4558-af70-174741ab254c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F6012" description="" guid="5cdad8b9-726a-4cc3-97d1-fb6103f0b1b6" fileName="2e921e2e-f05b-4bdd-bbb3-7ed54888d59c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Base ETUI  ETR - 303" description="" guid="5e7447df-2f1e-4d13-87d8-590d6ada73ff" fileName="b6b46106-1311-4c9c-ac70-f5105433dbc5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Foldable 01" description="" guid="5e869354-41f4-40c9-a2ae-a74c5e7d5a54" fileName="ee2b1883-0152-4587-9657-148e1d0c7e88.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 06" description="" guid="5ec31ba7-dd3a-4aaf-9921-2f05ddb02f32" fileName="385e8531-8bf4-4fe5-ae5a-751379699fec.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Base ETUI ET- 180" description="" guid="5f95abac-f4f0-43ee-977a-f2ad2f281265" fileName="4c2079a2-b2bb-41f4-9c1c-594e4a5c8818.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B1506" description="" guid="6012ab7e-d1a8-486b-b376-72afc49be4fd" fileName="432c7b76-a59a-4bcc-ad46-cedf1ec62d80.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="if_then" description="" guid="60b7da99-433b-439f-8c66-c2cdfd512cb3" fileName="9518c74f-574b-4f55-b6dd-d6baa2fc0267.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F8021" description="" guid="60e277fa-7af2-427b-bb80-59249b21cc70" fileName="7203fa66-964b-4777-baf5-743274c454e0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0945" description="" guid="60e67644-3bc1-45bd-89ba-0f1a90fccbd6" fileName="f8f1d27e-b26a-4a26-a0d5-ab5ca84fe363.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0303" description="" guid="61468e01-a1e1-4997-9035-2f06d4435508" fileName="5c1ae52d-27ab-49c9-9651-89469692dd3c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0940" description="" guid="61933bec-6308-41f2-b6bc-781255b721e9" fileName="03c0a464-2b1c-4cf2-b5f9-1d4dd09269d0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0509_Style1" description="" guid="61aac173-4ce3-4805-8706-b7d7db2c9f64" fileName="72294c2f-317a-4251-812b-f2dff2d3e78f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0426" description="" guid="6245744c-df35-4f7e-8b34-a5bb74391492" fileName="c55225aa-0761-4333-9d31-b10b32bd58c1.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0212" description="" guid="62fe3bb0-51aa-41a3-b74e-385fb925c183" fileName="615dd3ae-1a92-4b41-810e-4f905bc95bfe.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Table_Display_05" description="" guid="6382a9b6-84f0-41d2-a680-3cbdc3c6d473" fileName="310898f8-7fff-4f83-89e4-9542ff969ea9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="test 427" description="" guid="6406c55c-04f6-4dd7-b783-b8106351d4c3" fileName="def3e0ad-5605-4294-9a00-f6cae414f537.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Horizontal Display 01" description="" guid="64254bc7-3a32-43bd-bc3e-2da16b9d6beb" fileName="50f0ea23-3314-44fc-863a-21d6129c9fa4.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0426_v2" description="" guid="64c3edd9-85f2-4059-8453-00651c45cf7e" fileName="dd75eb59-d04b-4a80-adfc-6506d543814e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PAT4" description="" guid="6591ce48-f194-47de-bb6d-25ebd64326ce" fileName="659d4965-04a3-47a1-8ef6-1f0be9b63945.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0616" description="" guid="66a2a6c5-602a-4416-b289-e33792804c5a" fileName="8ffbc85f-f929-4f91-895a-b0634eb81f56.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Tuck_end_Inverted" description="" guid="66e5437d-a8a8-404d-951c-e7bf944d2342" fileName="8c000586-0368-4ac4-bba5-79c011f427eb.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="100" />
+      <p xsi:type="parameterDouble" name="b" value="50" />
+      <p xsi:type="parameterDouble" name="bp" value="0" />
+      <p xsi:type="parameterDouble" name="e" value="0.5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="0" />
+      <p xsi:type="parameterDouble" name="h" value="40" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0312" description="" guid="68d8570c-bb70-420a-8b4c-a165044c7205" fileName="5b52f38f-ae03-45b1-b1bf-ccbdfa472c37.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B1511" description="" guid="69363d6c-8f17-4d2c-9b59-f620f1548e5f" fileName="7a94c1b8-93fc-4406-a08f-8f963532558b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4021" description="" guid="6968a324-c26f-4f8d-bb34-2d18e1ff8c01" fileName="48389a07-71ce-45b3-ae98-2539ddfa7a2d.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Canadien 04" description="" guid="696bb4f6-f4a2-4bc6-9d98-7d961df287d4" fileName="0361022f-9f4f-4e20-8c82-f461af72f544.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Totem 06 Slot" description="" guid="69b38437-9251-4f2c-a6b9-c57b50fb41f5" fileName="a1f09bf6-e21c-4e5e-aebb-840f4f82fac0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F8051" description="" guid="6a4b8c7b-1370-47ed-b934-25835741ee57" fileName="9cd45050-0fab-4bd2-b036-e95064a60f1f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0409_v1" description="" guid="6aeb7821-d494-4df7-bc78-66ad67b8b97d" fileName="e995d532-014a-4685-9ae7-bbb3dc2007f9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0913_Int" description="" guid="6be6bc13-49e8-439c-958e-d1c2aff573db" fileName="4e586cfd-f464-4745-9a03-fbc8e27553dc.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4020 50" description="" guid="6c1f47b0-cd23-4107-a043-4620b7c7ba7c" fileName="fce4e7fb-2aff-49c0-8e07-11a36865658a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="FDAUTO AUCH" description="" guid="6c45199f-5d4c-4010-842e-ac5c64c9811d" fileName="389a3e3c-f41a-483b-91e3-cc80d7f121e5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Easel Chevalet 03" description="" guid="6c7a7317-be19-457d-86b9-e0ee8547236c" fileName="3f34f344-4852-4138-873e-a832b95cc4e1.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Lock_Tab_02" description="" guid="6d3d4811-e35a-4cbd-958a-fbd4f889f6cf" fileName="508aa2f4-f5d6-4050-a48b-ffd9f8515755.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A1" value="100" />
+      <p xsi:type="parameterDouble" name="B1" value="30" />
+      <p xsi:type="parameterDouble" name="Ch1" value="7" />
+      <p xsi:type="parameterDouble" name="Ch2" value="3" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exB1" value="3" />
+      <p xsi:type="parameterDouble" name="gap1" value="1" />
+      <p xsi:type="parameterDouble" name="L1" value="20" />
+      <p xsi:type="parameterDouble" name="R1" value="5" />
+      <p xsi:type="parameterDouble" name="R2" value="1.5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0310" description="" guid="6db17a8e-d591-4125-a6e6-9f3b305510d5" fileName="f7e07460-b633-4173-9d29-d357bc8fcba8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0209" description="" guid="6f55f39f-8b2f-4244-afc9-348279ee19e9" fileName="c1960312-6498-4457-bb6e-f7008921eb71.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Holder 03" description="" guid="6fe60838-cbee-427e-ad57-055f4c6f84b5" fileName="cb6098ce-4a60-447f-a798-114efc42e295.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0901" description="" guid="701453cc-738c-4dca-8888-4343d17d53c3" fileName="cade7792-2580-41b6-9919-f14a3999bb1c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0944" description="" guid="703560ce-7bff-46ff-b4ac-f09f817a0932" fileName="28f504c4-cc35-4813-be30-d3e692b71930.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A2220" description="" guid="70820d64-291f-41a2-aca7-83876d58a0bb" fileName="2d5967ba-b008-43f8-b821-bda89dbc2e1f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0207_Style2" description="" guid="711e9529-3d17-4ed1-a83c-96b7b5dc3da4" fileName="1aa565ec-45bc-4e20-a795-32a270da9ff4.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Glue_flap" description="" guid="729625f4-921d-4f72-af43-4248835a59f3" fileName="c277d5b7-fc2b-45a0-a862-d361ab66eb76.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ag" value="20" />
+      <p xsi:type="parameterDouble" name="d" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="15" />
+      <p xsi:type="parameterDouble" name="h" value="60" />
+      <p xsi:type="parameterDouble" name="rd" value="0" />
+      <p xsi:type="parameterDouble" name="res" value="0" />
+      <p xsi:type="parameterDouble" name="rg" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B1001" description="" guid="735e887c-207f-4057-9a35-e357f0a08a39" fileName="79190c0f-2df5-4202-8eff-b230884b59f2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Hanging_panel" description="" guid="73c6a081-ef29-48b6-8d9d-73254a19d47c" fileName="6a7c4098-5a8d-4130-a492-3d5dad4a8fdf.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="100" />
+      <p xsi:type="parameterDouble" name="DA" value="1.5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="HB" value="30" />
+      <p xsi:type="parameterDouble" name="IB" value="5" />
+      <p xsi:type="parameterDouble" name="r" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="y" value="0" />
+      <p xsi:type="parameterDouble" name="z" value="10" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Base ETUI  ETR - 302" description="" guid="73e61b85-e1b7-4d20-98ec-4c0cce347401" fileName="d5eb872c-374e-48f5-b5f8-c27a05bf8dde.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0711" description="" guid="742a1b17-8cb9-4cce-9a02-807f4afe9352" fileName="00a78a5c-feb6-4582-b990-f4d5e154773c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Folder_Display_03 (1)" description="" guid="7436eb78-8807-4e35-82b3-c8e9feddcef0" fileName="098cb840-2b68-48cd-92d2-fc22a43018a8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Stand 03" description="" guid="748d9ae3-fb19-422c-9160-f626e19b2b2f" fileName="46eb7eb9-50c1-408d-ab67-d7d1c8628b06.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Automatic_with_Covering_Flap" description="" guid="74d13a3d-6878-4131-8a46-3de8e201d865" fileName="459fbf1c-93be-4390-8ccb-bc7670e34271.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="100" />
+      <p xsi:type="parameterDouble" name="B" value="50" />
+      <p xsi:type="parameterDouble" name="ep1" value="0" />
+      <p xsi:type="parameterDouble" name="g" value="15" />
+      <p xsi:type="parameterDouble" name="h" value="60" />
+      <p xsi:type="parameterDouble" name="P" value="3" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Fond_auto_auch1" description="" guid="750afcec-7cc7-4014-895c-b30742456417" fileName="b4f6b21c-bc20-4ebf-8384-2a9d3708dab7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Lock_Tongue_01" description="" guid="757607bb-d892-44d7-9ea6-949342f885f3" fileName="8c2eda6e-2edd-40dc-a8bb-f2f6bf0aaabf.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A1" value="100" />
+      <p xsi:type="parameterDouble" name="B1" value="30" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exL1" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="20" />
+      <p xsi:type="parameterDouble" name="L2" value="20" />
+      <p xsi:type="parameterDouble" name="R1" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0620" description="" guid="765c1b16-33d6-4041-b9c1-b13e1f6d3b6a" fileName="e95f6831-3fbb-43a6-8c04-6a94a7c45c83.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0453_v2" description="" guid="77e511b5-b4bd-4f03-8645-ce39d8c67ab9" fileName="922f7dcd-c3a2-44e8-a30c-b09cac1894ae.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Dbl_Wall" description="" guid="7a78113d-7fba-4519-bb19-8a2c8ce4e6dc" fileName="11745d1a-2519-4f9c-997f-c64573487d90.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="152" />
+      <p xsi:type="parameterDouble" name="B2" value="153.75" />
+      <p xsi:type="parameterDouble" name="B4" value="149.5" />
+      <p xsi:type="parameterDouble" name="D1" value="146" />
+      <p xsi:type="parameterDouble" name="dbw" value="6" />
+      <p xsi:type="parameterDouble" name="dec" value="10" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1" value="98" />
+      <p xsi:type="parameterDouble" name="H2" value="93.25" />
+      <p xsi:type="parameterDouble" name="H3" value="97" />
+      <p xsi:type="parameterDouble" name="H4" value="104" />
+      <p xsi:type="parameterDouble" name="L1" value="210" />
+      <p xsi:type="parameterDouble" name="L2" value="206" />
+      <p xsi:type="parameterDouble" name="mth" value="6" />
+      <p xsi:type="parameterDouble" name="mtl" value="33" />
+      <p xsi:type="parameterDouble" name="R1" value="3" />
+      <p xsi:type="parameterDouble" name="Rc" value="10" />
+      <p xsi:type="parameterDouble" name="T1" value="5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="typ" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Display_Shelf_Support_01" description="" guid="7b1bdf8b-5cec-4e0e-bd4a-220018028414" fileName="563146e5-9811-49ea-8896-90d6d4536ed2.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="50" />
+      <p xsi:type="parameterDouble" name="ep1" value="3" />
+      <p xsi:type="parameterDouble" name="L1" value="280" />
+      <p xsi:type="parameterDouble" name="T" value="15" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0308" description="" guid="7b44b3d3-7805-4c6c-a1b6-fd6f5bc26781" fileName="4e1f6dbd-2658-4d48-914c-0bb529294d88.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0906_Ext" description="" guid="7bbf185c-8e6f-4bd4-8942-e1095e093cd5" fileName="cb3a435f-2814-4710-9bd5-4974c69b31f4.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Urne 02" description="" guid="7c587f4c-6ee5-4f6b-9853-6f940904603d" fileName="89341a28-4b6f-4dda-a47c-80913b4b02de.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Fond_Auto_Extended_01" description="" guid="7c79e4db-f17d-48cb-8d3b-0182b8128466" fileName="b0d8f1a1-9e6d-4885-96ea-28c50e4ac7c8.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Ag1" value="15" />
+      <p xsi:type="parameterDouble" name="Ag3" value="10" />
+      <p xsi:type="parameterDouble" name="Ag4" value="30" />
+      <p xsi:type="parameterDouble" name="B" value="182" />
+      <p xsi:type="parameterDouble" name="B1" value="190" />
+      <p xsi:type="parameterDouble" name="B2" value="186" />
+      <p xsi:type="parameterDouble" name="Ch3" value="13" />
+      <p xsi:type="parameterDouble" name="Ch4" value="15" />
+      <p xsi:type="parameterDouble" name="ChLock" value="2" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="ep1" value="6" />
+      <p xsi:type="parameterDouble" name="ExtFlap1" value="30" />
+      <p xsi:type="parameterDouble" name="G" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="260.5" />
+      <p xsi:type="parameterDouble" name="HLock" value="9" />
+      <p xsi:type="parameterDouble" name="HLock2" value="8" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="362" />
+      <p xsi:type="parameterDouble" name="L2" value="363" />
+      <p xsi:type="parameterDouble" name="Lock" value="60" />
+      <p xsi:type="parameterDouble" name="t6" value="0" />
+      <p xsi:type="parameterDouble" name="t7" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0904_Ext" description="" guid="7c9282c5-7d93-4467-b1fd-9db84baf4bcb" fileName="837e0112-3404-40cb-b9a0-2e131283ee54.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0971" description="" guid="7ca77864-c817-4df7-a3ff-62e549f9ff1e" fileName="f8369d21-4640-485d-aede-2724b3abbc8b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Foldable 03" description="" guid="7cf6de55-010c-4144-9b85-84c5484b0f37" fileName="effc6322-54fd-4071-99aa-f7cb6c96dbc9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Three_Panels" description="" guid="7d137a31-3ce7-4de1-bc15-7204d363d7bf" fileName="c70e1e1a-c5dc-4f66-be9d-3b8c4901ec60.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="aP1" value="15" />
+      <p xsi:type="parameterDouble" name="aP3" value="15" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="P1" value="50" />
+      <p xsi:type="parameterDouble" name="P2" value="100" />
+      <p xsi:type="parameterDouble" name="P3" value="50" />
+      <p xsi:type="parameterDouble" name="P4" value="100" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F1051" description="" guid="7ec4f798-7664-4c5c-842e-91dfae9e171b" fileName="b1ceb4a7-fb81-48f8-b589-cd415783dc74.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0411_v1" description="" guid="7f602f17-bf19-4374-97c8-ba1a1d7788bf" fileName="7026a740-f0bf-40ec-83b8-b88e35a8f78b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0217_Style1" description="" guid="7ff14785-90fb-4f69-96e5-bcef1780e755" fileName="ef665d33-c0fa-4d14-a26d-e3b658534698.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0943" description="" guid="804db955-8505-4a77-b447-ab2276c3ec7b" fileName="bc2431d9-82da-465d-8856-b25426521578.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0502" description="" guid="80abe464-2f99-4e6e-92d7-18b5993c5b72" fileName="06199084-ab88-49d4-9d66-38c4a126270b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0229" description="" guid="80ace10b-b683-4bd1-bc6b-5f79fdbf2bf8" fileName="a8e62f66-9860-426e-8230-d1170df9d23e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Oblique_Wall 01" description="" guid="8177dd06-3950-45a7-9000-5402377678a8" fileName="718f93ef-c3d0-467b-8a69-530d6667959b.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="160" />
+      <p xsi:type="parameterDouble" name="D" value="30" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1_1" value="30" />
+      <p xsi:type="parameterDouble" name="H2_1" value="70" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="TnA" value="2" />
+      <p xsi:type="parameterDouble" name="TnH" value="4" />
+      <p xsi:type="parameterDouble" name="TnL" value="20" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Tuck_end" description="" guid="818567a3-ce01-45f5-b328-04031713c12c" fileName="773122b7-fef3-4413-a4e1-fc3aef14fce3.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="100" />
+      <p xsi:type="parameterDouble" name="b" value="50" />
+      <p xsi:type="parameterDouble" name="bp" value="0" />
+      <p xsi:type="parameterDouble" name="e" value="0.5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="15" />
+      <p xsi:type="parameterDouble" name="h" value="40" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Automatic_Closure" description="" guid="81cdb27a-9fd8-483d-b3cb-be01f7a081d5" fileName="76e5a60f-58eb-40f0-85e3-6ede90b35ee7.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="120" />
+      <p xsi:type="parameterDouble" name="Ag1" value="20" />
+      <p xsi:type="parameterDouble" name="Ag2" value="10" />
+      <p xsi:type="parameterDouble" name="B" value="80" />
+      <p xsi:type="parameterDouble" name="Ch" value="11" />
+      <p xsi:type="parameterDouble" name="Ch3" value="5" />
+      <p xsi:type="parameterDouble" name="Ch4" value="1.5" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="ep1" value="1" />
+      <p xsi:type="parameterDouble" name="G" value="0" />
+      <p xsi:type="parameterDouble" name="H" value="60" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="Lock" value="3" />
+      <p xsi:type="parameterDouble" name="Lock2" value="0" />
+      <p xsi:type="parameterDouble" name="re" value="0.5" />
+      <p xsi:type="parameterDouble" name="t6" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Edge_Lock" description="" guid="827b4625-ccad-41f8-823a-c165852ca8f4" fileName="4d55a0e6-11d3-4e54-ad33-5491ff76dc19.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="100" />
+      <p xsi:type="parameterDouble" name="A1" value="0" />
+      <p xsi:type="parameterDouble" name="A2" value="0" />
+      <p xsi:type="parameterDouble" name="a3" value="0" />
+      <p xsi:type="parameterDouble" name="a4" value="0" />
+      <p xsi:type="parameterDouble" name="B" value="115" />
+      <p xsi:type="parameterDouble" name="B1" value="50" />
+      <p xsi:type="parameterDouble" name="B2" value="55" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="15" />
+      <p xsi:type="parameterDouble" name="h" value="100" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v" value="2" />
+      <p xsi:type="parameterDouble" name="v1" value="2" />
+      <p xsi:type="parameterDouble" name="x" value="0" />
+      <p xsi:type="parameterDouble" name="x2" value="0" />
+      <p xsi:type="parameterDouble" name="x3" value="0" />
+      <p xsi:type="parameterDouble" name="x4" value="0" />
+      <p xsi:type="parameterDouble" name="z" value="0" />
+      <p xsi:type="parameterDouble" name="z1" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0910_Int" description="" guid="8305a5bc-3b60-44a2-b72e-554a6d3307c3" fileName="404d589e-d750-40c8-9a7f-60ea7484a462.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0905_Ext" description="" guid="851339aa-e5d3-472b-a12b-cc9017a34f5f" fileName="4b6f3f77-a8eb-4516-9adb-9432a18a58d6.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Easel_05_tall" description="" guid="85407cba-088f-4adc-822c-86907b0539f6" fileName="f36d3932-feb6-4ade-84e4-20549136b5f3.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="140" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="720" />
+      <p xsi:type="parameterDouble" name="H2" value="180" />
+      <p xsi:type="parameterDouble" name="H3" value="520" />
+      <p xsi:type="parameterDouble" name="L" value="80" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="PLV Part Holder 03" description="" guid="855eb114-ee7e-4ad5-93e5-2a7917eeb03e" fileName="45434ce6-9b4d-4ff9-9cb4-49bea3562d5f.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="30" />
+      <p xsi:type="parameterDouble" name="dF4" value="40" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="F1" value="20" />
+      <p xsi:type="parameterDouble" name="F4" value="50" />
+      <p xsi:type="parameterDouble" name="H" value="200" />
+      <p xsi:type="parameterDouble" name="L" value="220" />
+      <p xsi:type="parameterDouble" name="pF" value="30" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0929_Int" description="" guid="85c73991-7986-4b93-a8f7-d63e460df0d3" fileName="5a4aa96b-03e8-4228-9743-ba6d1997a784.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B3202" description="" guid="861a6407-be28-4e99-b99e-ea68f28ab743" fileName="7802d36f-ce32-4dac-8d9f-92c8e4609030.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="test rectangle" description="" guid="86976c93-54fb-4846-9dbb-b620136393fa" fileName="5501eb1a-94fc-482b-b18e-60b1f9943380.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0511 Style1" description="" guid="872184f6-3882-4690-b771-94ae224170b8" fileName="1cc6df03-bee1-4808-b33c-16cc28e38316.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Lock_Cut_01" description="" guid="8827b471-94e0-4a00-9e65-fd046c96306a" fileName="734fa90f-b9f8-410b-8d8b-1e084d12cc5b.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A1" value="100" />
+      <p xsi:type="parameterDouble" name="B1" value="30" />
+      <p xsi:type="parameterDouble" name="D1" value="2" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exB1" value="0" />
+      <p xsi:type="parameterDouble" name="R1" value="0" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 09" description="" guid="886de7de-edcd-48f5-bdd7-af42f4234759" fileName="d964189f-4139-4e28-b1bf-2574e9b8328f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A1075" description="" guid="88bdc8e2-4eef-4df6-b5f9-693a171876fc" fileName="d6d15c33-17d6-4e20-b93c-6b30dffa47a7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="mortise plugin" description="" guid="898b3b09-becd-4e29-aa46-3ace70f2af83" fileName="d292019f-da59-408a-82d2-56b07f86ffe8.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="aT1" value="5.1760001182556152" />
+      <p xsi:type="parameterDouble" name="B2" value="307.5" />
+      <p xsi:type="parameterDouble" name="B4" value="299" />
+      <p xsi:type="parameterDouble" name="D" value="40" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="mth" value="6" />
+      <p xsi:type="parameterDouble" name="mtl" value="33" />
+      <p xsi:type="parameterDouble" name="T1" value="5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="tml" value="33" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0403" description="" guid="89b0c4b7-ba00-41cb-b347-d8b9d627bea5" fileName="64c05bb3-be69-47ec-a672-48cd656095e2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0615" description="" guid="8b025874-9f7d-47ad-b217-8779b19fe4d4" fileName="1611e934-dda1-439e-b68e-59831804eb22.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0608" description="" guid="8b336d62-3595-4e54-b92b-dbdf4cf97c3b" fileName="4d49333f-40a6-4a3e-adf6-88e7c33981df.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0448" description="" guid="8b520de6-c1a3-4a1c-82e3-4826bae60c4b" fileName="5477fb6b-dcbb-4f9d-af40-20a3480475e3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="WRAP COMPLET" description="" guid="8bb044bf-5b9c-4efb-a1d1-7582144b279b" fileName="d6a8d96b-5955-48ee-8525-6af149a34207.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Tray_0460" description="" guid="8c6f2f50-384e-453f-b65d-b1cd261ee6ad" fileName="a537c339-6f8e-49f7-b489-68c6cee48e39.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="220" />
+      <p xsi:type="parameterDouble" name="Ch3y" value="28" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="EcH" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1" value="100" />
+      <p xsi:type="parameterDouble" name="H2" value="40" />
+      <p xsi:type="parameterDouble" name="Hbc" value="0" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="400" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="ETSPROL" description="" guid="8d5d612a-3d33-42b4-b881-a9a7991469e5" fileName="87d24697-a573-49ac-992e-c7324e77c02f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F8023" description="" guid="8da0e442-552d-4cd1-9cc0-0bfa71eff872" fileName="406c8c10-177e-4add-bd2c-6c3656e7206a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0908_Ext" description="" guid="8dc37989-9701-45ea-b7ae-3cd62ce898b8" fileName="90cb9bf4-ede6-434d-b0e6-1e54f310cc88.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Hanging_hole_DELTA" description="" guid="8e385f85-05c1-4794-b558-9e618a7ddd64" fileName="63caa484-df9b-4688-9026-04bf1e43aba0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4820" description="" guid="8e7520f0-a14c-44f9-8591-534fe694a526" fileName="f2521b15-48c2-4d1f-8931-f9da217715d9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Stand 01" description="" guid="8ea29fe0-fb9d-4108-b643-7d64a16c1456" fileName="8fc5e042-63ec-4ff4-b2fa-adb81ca08455.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F1011" description="" guid="8ed33320-57a8-407a-bc39-ed859367bc4d" fileName="2458dafa-5c3e-4125-9583-987d47277710.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Lock_Tongue_03" description="" guid="9138f867-2ced-4336-b73b-f02f513411b5" fileName="fa6470d1-17ac-4b31-a6d2-81d8d8fb5ac8.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A1" value="100" />
+      <p xsi:type="parameterDouble" name="B1" value="30" />
+      <p xsi:type="parameterDouble" name="Ch1" value="8" />
+      <p xsi:type="parameterDouble" name="Ch2" value="4" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exB1" value="4" />
+      <p xsi:type="parameterDouble" name="exL1" value="5" />
+      <p xsi:type="parameterDouble" name="gap1" value="1" />
+      <p xsi:type="parameterDouble" name="gap2" value="1" />
+      <p xsi:type="parameterDouble" name="L1" value="20" />
+      <p xsi:type="parameterDouble" name="L2" value="30" />
+      <p xsi:type="parameterDouble" name="R1" value="5" />
+      <p xsi:type="parameterDouble" name="R2" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A1020" description="" guid="92bb5eb1-4e63-427b-991f-5010e5850010" fileName="758e5a32-338d-4f18-9556-4c83f94a9f0c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Display_Shelf_Tray_01" description="" guid="93012e40-14a6-4b13-864b-6426f8207ae1" fileName="cd3f8157-86d3-410a-b6c6-d88454d810c7.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="400" />
+      <p xsi:type="parameterDouble" name="ep1" value="3" />
+      <p xsi:type="parameterDouble" name="H" value="60" />
+      <p xsi:type="parameterDouble" name="L" value="280" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="*Smart_Caisse" description="" guid="942eff20-9a4e-46b6-ae3e-c787be094e7d" fileName="f4cfce9c-c0a0-431d-be32-1e07ebbcc82b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0972" description="" guid="94839900-1d0f-481b-9574-02684df3c465" fileName="2d2495e2-34ab-4d78-a42b-21fd2230cdb7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Easel_03_tall" description="" guid="94df357e-0da5-4bc7-945d-c534fd0e68bd" fileName="75215734-1090-422f-834b-9ee60a3b9b34.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="10" />
+      <p xsi:type="parameterDouble" name="B" value="110" />
+      <p xsi:type="parameterDouble" name="ep1" value="2" />
+      <p xsi:type="parameterDouble" name="H" value="1200" />
+      <p xsi:type="parameterDouble" name="H2" value="300" />
+      <p xsi:type="parameterDouble" name="H3" value="800" />
+      <p xsi:type="parameterDouble" name="K" value="50" />
+      <p xsi:type="parameterDouble" name="L" value="300" />
+      <p xsi:type="parameterDouble" name="L2" value="100" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A0145" description="" guid="95b38b9d-b2d5-4686-bc06-61c12bd2fa76" fileName="ef1d3241-9f43-4b83-92a3-e9670ee85352.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Tuck_end_Inverted_ShelfReady" description="" guid="95b776b1-f8af-4efc-ab83-16ac7d35f5e5" fileName="50911aba-de5a-4691-bd5c-92370cfec015.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="100" />
+      <p xsi:type="parameterDouble" name="b" value="50" />
+      <p xsi:type="parameterDouble" name="bp" value="0" />
+      <p xsi:type="parameterDouble" name="e" value="0.5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="0" />
+      <p xsi:type="parameterDouble" name="h" value="40" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Sens cannelure 01" description="" guid="961474e3-62ba-42aa-a393-8537909fd2b3" fileName="d0728450-7b42-478d-9ad5-85e457ca870c.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="80" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Automatic_Closure (old)" description="" guid="966d962c-6467-42b9-a5d0-83077737dad7" fileName="2b0f4c2f-5605-4a20-b3f9-6785799e21ab.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="107" />
+      <p xsi:type="parameterDouble" name="Ag1" value="10" />
+      <p xsi:type="parameterDouble" name="Ag2" value="20" />
+      <p xsi:type="parameterDouble" name="ax" value="1.5" />
+      <p xsi:type="parameterDouble" name="b" value="80" />
+      <p xsi:type="parameterDouble" name="c" value="60" />
+      <p xsi:type="parameterDouble" name="e" value="15" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="0" />
+      <p xsi:type="parameterDouble" name="ox" value="0" />
+      <p xsi:type="parameterDouble" name="oy" value="3" />
+      <p xsi:type="parameterDouble" name="rd" value="5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="xd" value="0.5" />
+      <p xsi:type="parameterDouble" name="xd1" value="1" />
+      <p xsi:type="parameterDouble" name="xx" value="11" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0941" description="" guid="966f9d07-95b3-42b3-8ddd-3cb93548e598" fileName="f6c52fa1-ec7d-48b4-85fd-da984f9dea25.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0306" description="" guid="96a03e33-dee3-4b9c-8e8c-7724d7f09c1f" fileName="b31b8153-f8bc-42ed-b89d-ab68518624ce.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0950" description="" guid="97213192-d07d-435c-bf6e-f02b6b58fa55" fileName="ccf24780-49bf-44ff-ade9-bea9a8259719.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Wall_Oblique 03" description="" guid="976c8f49-d4a9-4d8a-bfd6-f793700ed6f7" fileName="1c2c0e4d-cb85-4147-8967-a18c2096c73f.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="160" />
+      <p xsi:type="parameterDouble" name="B1bis" value="160" />
+      <p xsi:type="parameterDouble" name="D3" value="30" />
+      <p xsi:type="parameterDouble" name="D4" value="30" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1_1" value="30" />
+      <p xsi:type="parameterDouble" name="H2_1" value="70" />
+      <p xsi:type="parameterDouble" name="STnL" value="30" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="TnA" value="2" />
+      <p xsi:type="parameterDouble" name="TnH" value="4" />
+      <p xsi:type="parameterDouble" name="TnL" value="20" />
+      <p xsi:type="parameterDouble" name="XDbw1" value="1" />
+      <p xsi:type="parameterDouble" name="XDbw2" value="0" />
+      <p xsi:type="parameterDouble" name="xH1" value="0" />
+      <p xsi:type="parameterDouble" name="xH2" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0920_Ext" description="" guid="99a34dc9-d253-4860-9533-61d25728806f" fileName="375a8981-6941-4232-a8a4-787b536fdfdc.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Folder_Display_04 (1)" description="" guid="99dd0fa0-649c-45d2-bad2-6ff9989eb6c5" fileName="433ee21c-17b2-4d2f-a8ce-2e333ab1a61b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Easel_04_tall" description="" guid="99f05336-0bca-42ed-99cc-97a5b526be18" fileName="ceee7798-ca6b-4622-8617-ab11a008ae8a.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="140" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="720" />
+      <p xsi:type="parameterDouble" name="H2" value="400" />
+      <p xsi:type="parameterDouble" name="L" value="80" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B2001" description="" guid="9a222524-2115-40ea-81b8-0daa35f7ea73" fileName="a3f1f777-48a2-4beb-b7d1-fcb21b7a8d38.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Foldable 08" description="" guid="9acf6358-eb0f-4e8c-b16e-9ce047a76ffa" fileName="8d2368ea-c669-4199-a805-bc2255e99dfe.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0949" description="" guid="9b3eb986-5f76-4911-9959-887da591d63e" fileName="e1d4526c-adbb-42a5-9943-d3f249dd34fb.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F2033" description="" guid="9c03473d-e102-4088-bb49-dd0e7359f897" fileName="ff4aaafe-2a76-4770-a5c9-0f5190594961.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F6091" description="" guid="9c92ae40-77be-4346-bec2-b04145a47dc0" fileName="18d10f00-7c6f-4ff1-80a6-f61c40a6229b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="GALIA A" description="" guid="9cd6601a-9d28-4cf1-a7fe-2ad021f42afc" fileName="ef64d370-f42c-4b66-93ef-2485b28c4ed0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="top_cover_429" description="" guid="9cebb9b8-cce3-4487-ac07-7e9ae3c11dae" fileName="5c4bd5df-f1df-4b9d-8ecc-dd933a60a626.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B2" value="300" />
+      <p xsi:type="parameterDouble" name="cs" value="3" />
+      <p xsi:type="parameterDouble" name="cw" value="3" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H7" value="100" />
+      <p xsi:type="parameterDouble" name="L3" value="400" />
+      <p xsi:type="parameterDouble" name="Rp" value="15" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="BigBox_01" description="" guid="9d6bb4d5-a719-48eb-a296-a70e25bcdc35" fileName="30bd7904-f9c8-4421-b038-4fd810ffdffc.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B2004" description="" guid="9d6bf109-3744-43bc-8222-601c7d124ba9" fileName="addf2a17-fe40-45d1-b309-e3ad97ef2679.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Full_Wrapped_02" description="" guid="9f72b689-1ad8-4247-95d4-3be46941cca8" fileName="04dd5e85-1052-413e-bcb5-e59ad6c2646d.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="700" />
+      <p xsi:type="parameterDouble" name="B" value="400" />
+      <p xsi:type="parameterDouble" name="E" value="14" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="ExtH" value="100" />
+      <p xsi:type="parameterDouble" name="ExtL" value="200" />
+      <p xsi:type="parameterDouble" name="Flaps" value="0" />
+      <p xsi:type="parameterDouble" name="R" value="25" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="2" />
+      <p xsi:type="parameterDouble" name="v2" value="3" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0230" description="" guid="a0333aea-30db-465b-84d7-94abb9208cdf" fileName="233e4ba5-e270-4ee0-ab72-86f261a42aaf.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4022" description="" guid="a131192b-a3b3-4c19-9376-c6195eb02e22" fileName="fc1aa536-fb8b-4da8-a1c1-60eedbb1f066.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Counter Display 07" description="" guid="a189ab28-bf17-41fd-bcc2-52a4cf59d2f7" fileName="5ce74abf-a06b-428d-a790-55bc1d58d543.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B1506 60" description="" guid="a1a3c109-a6f1-4240-9e5f-32eb356b353e" fileName="d437c734-e414-4bea-b1cf-3a3812b4845c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0607" description="" guid="a27f0329-5c14-4896-a1b3-215af7dd04d9" fileName="79eb978b-0055-4289-a766-42055cbe9c37.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Shelf_01" description="" guid="a2dbe504-19d8-4844-8623-6affd6861a59" fileName="4844be07-d1f3-45c3-885b-a2340a0eb8ef.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="400" />
+      <p xsi:type="parameterDouble" name="Bec" value="28.990999221801758" />
+      <p xsi:type="parameterDouble" name="ep1" value="4.5" />
+      <p xsi:type="parameterDouble" name="Fshelf" value="77.5" />
+      <p xsi:type="parameterDouble" name="Hlock" value="10" />
+      <p xsi:type="parameterDouble" name="L1" value="500" />
+      <p xsi:type="parameterDouble" name="Llock" value="200" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Kiosk / Totem 02" description="" guid="a3d39c7c-2eb4-4273-9368-ab5923bc9dd9" fileName="35c1730e-4799-42f5-abed-18077f293dc3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Table_Display_02" description="" guid="a5cd3d45-2719-4a54-ab1d-461fc6fb7bc1" fileName="5685f527-6c88-4c94-acc8-f9176bc26216.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Sign Panel 03" description="" guid="a6f2f3f6-e669-47e0-b472-a1b63e660f97" fileName="3234f68f-c7de-4cf1-bc08-1ba001a3d226.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0427 PicFEFCO" description="" guid="a7aea0b4-8fef-4683-a451-47d1c6e78680" fileName="2430cd90-4950-491f-89f6-066ddb44713a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Canadien 03" description="" guid="a7dfe4b9-6c8d-420e-a16b-e6ecbc669e6c" fileName="a90acb41-35d4-4294-9435-ba1a989a6bf1.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0210_0211_0212" description="" guid="a7f874ce-8fe2-4f26-b4b3-547af6d815c6" fileName="ee455c2c-a5c1-4264-97c9-34c436d1a04f.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="308" />
+      <p xsi:type="parameterDouble" name="B2" value="307" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="EcB2" value="3" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="FL" value="305.05899047851562" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="207" />
+      <p xsi:type="parameterDouble" name="Hflap" value="50" />
+      <p xsi:type="parameterDouble" name="Htuck" value="30" />
+      <p xsi:type="parameterDouble" name="L1" value="407" />
+      <p xsi:type="parameterDouble" name="L2" value="408" />
+      <p xsi:type="parameterDouble" name="LTh" value="24" />
+      <p xsi:type="parameterDouble" name="Rtuck" value="20" />
+      <p xsi:type="parameterDouble" name="t7" value="6" />
+      <p xsi:type="parameterDouble" name="t8" value="5" />
+      <p xsi:type="parameterDouble" name="t9" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="xCh" value="30" />
+      <p xsi:type="parameterDouble" name="yCh" value="30" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Thumb_Hole" description="" guid="a90d5310-d821-40e1-be0a-ef290c6d6c6d" fileName="d5956a76-0adf-46b4-a858-d847854631af.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="50" />
+      <p xsi:type="parameterDouble" name="hcp" value="7.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="FDAUTO PICADOR" description="" guid="a989772f-a92c-437e-9871-0688bcc62d20" fileName="2d15ec0f-c310-432d-ba35-160b604fd881.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Display_folder_06 (1)" description="" guid="aa738afb-2dc4-494e-b052-54cc9040bf28" fileName="8415a02f-1f77-46ce-a857-a6b236884435.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_Semi_auto_Style1" description="" guid="aada0749-85a1-4c0a-8ea3-a2336a03ced9" fileName="5adfa386-8987-40e4-992d-8383efb677bf.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="208" />
+      <p xsi:type="parameterDouble" name="B2" value="207" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="150" />
+      <p xsi:type="parameterDouble" name="Hcov" value="40" />
+      <p xsi:type="parameterDouble" name="L1" value="307" />
+      <p xsi:type="parameterDouble" name="L2" value="308" />
+      <p xsi:type="parameterDouble" name="R" value="20" />
+      <p xsi:type="parameterDouble" name="t10" value="4" />
+      <p xsi:type="parameterDouble" name="t6" value="4" />
+      <p xsi:type="parameterDouble" name="t7" value="0" />
+      <p xsi:type="parameterDouble" name="t8" value="0" />
+      <p xsi:type="parameterDouble" name="t9" value="-3" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0713_Extended" description="" guid="ab706632-b544-4577-a23f-54312ed8fd8f" fileName="c4a0dd15-648b-43f7-8297-b3d0154fddda.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="6" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H" value="200" />
+      <p xsi:type="parameterDouble" name="L" value="400" />
+      <p xsi:type="parameterDouble" name="m1" value="7" />
+      <p xsi:type="parameterDouble" name="m10" value="0" />
+      <p xsi:type="parameterDouble" name="m11" value="0" />
+      <p xsi:type="parameterDouble" name="m2" value="8" />
+      <p xsi:type="parameterDouble" name="m3" value="8" />
+      <p xsi:type="parameterDouble" name="m4" value="7" />
+      <p xsi:type="parameterDouble" name="m5" value="14" />
+      <p xsi:type="parameterDouble" name="m6" value="5" />
+      <p xsi:type="parameterDouble" name="m7" value="6" />
+      <p xsi:type="parameterDouble" name="m8" value="5" />
+      <p xsi:type="parameterDouble" name="m9" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0227" description="" guid="abe26fe4-38e7-487a-8004-d9d58bf92fb1" fileName="aeb5717d-894c-4b18-acc9-d3427089eadd.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Canadien Divider 01" description="" guid="acb69fda-8922-4b5a-87a9-f8965d388276" fileName="464fde91-9647-4cdc-a119-bc0f065322f6.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Ec" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="5" />
+      <p xsi:type="parameterDouble" name="F2" value="100" />
+      <p xsi:type="parameterDouble" name="H2" value="300" />
+      <p xsi:type="parameterDouble" name="L1Div" value="300" />
+      <p xsi:type="parameterDouble" name="NbL" value="4" />
+      <p xsi:type="parameterDouble" name="RF2" value="20" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="10" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="PLV Part Header 03" description="" guid="ad82f171-81e9-4041-9677-41965b03e41c" fileName="296cc113-c97f-49a2-a357-c1f6aac615b8.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="aF3" value="5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="120" />
+      <p xsi:type="parameterDouble" name="L" value="250" />
+      <p xsi:type="parameterDouble" name="rH" value="15" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="10" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0202" description="" guid="af69df4d-c32d-4c1d-bdc0-72f5a11ea2d2" fileName="31bc9bd3-5016-4b46-8582-21830ebcd858.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Seal_End" description="" guid="af7fb901-90de-4034-9a27-c21d51f826d2" fileName="35e377f0-fac2-455a-8359-72ff3ddbf38b.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="100" />
+      <p xsi:type="parameterDouble" name="A1" value="0" />
+      <p xsi:type="parameterDouble" name="A2" value="0" />
+      <p xsi:type="parameterDouble" name="a3" value="0" />
+      <p xsi:type="parameterDouble" name="a4" value="0" />
+      <p xsi:type="parameterDouble" name="B" value="60" />
+      <p xsi:type="parameterDouble" name="B1" value="50" />
+      <p xsi:type="parameterDouble" name="B2" value="50" />
+      <p xsi:type="parameterDouble" name="B3" value="50" />
+      <p xsi:type="parameterDouble" name="Ch2x" value="0" />
+      <p xsi:type="parameterDouble" name="Ch2y" value="0" />
+      <p xsi:type="parameterDouble" name="Ch4x" value="0" />
+      <p xsi:type="parameterDouble" name="Ch4y" value="0" />
+      <p xsi:type="parameterDouble" name="e" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="15" />
+      <p xsi:type="parameterDouble" name="h" value="100" />
+      <p xsi:type="parameterDouble" name="r" value="1" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v" value="2" />
+      <p xsi:type="parameterDouble" name="v1" value="2" />
+      <p xsi:type="parameterDouble" name="x" value="0" />
+      <p xsi:type="parameterDouble" name="x2" value="0" />
+      <p xsi:type="parameterDouble" name="x3" value="0" />
+      <p xsi:type="parameterDouble" name="x4" value="0" />
+      <p xsi:type="parameterDouble" name="z" value="0" />
+      <p xsi:type="parameterDouble" name="z1" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 03" description="" guid="af8cd349-e393-4d10-90e3-1e3a03abb052" fileName="c37c474f-adfa-4894-ad51-ceda522058c0.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0931" description="" guid="b12e2672-69fe-42d4-b23b-42e3c519eff3" fileName="7f378e06-7abb-4ec9-8295-35bab237c6dd.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PAT6" description="" guid="b141c5b0-d3d7-4ebd-ad7f-1978396e23d9" fileName="b9540d75-28e6-466f-b3ae-020379c828d2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Sign Panel 01" description="" guid="b38b8631-a20f-4cc2-828b-288990583fe3" fileName="96b99d3d-8ed3-4bfe-9077-4a6279522ab8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Shelf 06" description="" guid="b3cbed2b-cb65-4a7d-a036-7dfb131c797e" fileName="635115d6-6245-4140-984a-36e017dc192f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Hanging_hole_EURO simple" description="" guid="b3e820e4-a192-43e1-a512-4ab3a9a984f0" fileName="d4341a9e-5f46-44c0-8067-cfa7b6800677.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="L" value="32" />
+      <p xsi:type="parameterDouble" name="R" value="6" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="W" value="6" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B4420 82" description="" guid="b4fedb78-6ee0-49d5-bcdb-46ab8001372d" fileName="77ccd902-36d3-41de-883b-e6a902c8827b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4420" description="" guid="b534f7d8-364d-4aeb-b497-c8f4157bea1d" fileName="d5c3b370-155c-4dcb-a9a1-77d4cac0fc26.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0304" description="" guid="b5394b6c-f49a-44e8-b4bd-00474e19c0b4" fileName="0dd935c6-c639-4c26-990d-50ff9d2aa96c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0453" description="" guid="b56ec1ae-9aa1-46bc-ab00-706d72629a3a" fileName="fbf17e2c-88b2-4dea-95f4-60aba8b73843.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0410_v2" description="" guid="b622068f-0a72-4bc6-b10c-37e3ac9d5678" fileName="2a632c31-7d6a-4b26-a8bd-68a0bc55d23e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0427" description="" guid="b732d8f8-d98a-40a2-8980-4d73dc171090" fileName="7a255265-4017-46c7-b63f-3e642fc6bdd7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0902" description="" guid="b73cb554-c049-4ca4-9941-260d5d63b532" fileName="4bfc7bcf-b117-4dad-b7a9-318531b2e1ec.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A8020" description="" guid="b83edd68-d89a-4223-94fb-0d8cf2ec57c5" fileName="8706e86e-23b2-4ba4-90f9-7939cb51396c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0228" description="" guid="b8800296-5802-489d-b424-ccf92e115f6c" fileName="2ade9f52-0bce-4603-a7f5-bb12ca21c39f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0458" description="" guid="b8fece5d-df26-45d3-9bbf-0b028da6ad99" fileName="6db72565-1e07-4916-ab1e-582da46a232e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0470" description="" guid="b8ff280e-f6ef-4fec-8a75-eafbd6d76050" fileName="48edc89e-1d0c-4465-9b1b-b6fb2ab26b3e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0947" description="" guid="b9335fa5-9d39-4250-86b0-601a4632af74" fileName="86d427a9-a385-4b62-abb5-d6e9f5c378af.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Base ETUI ETR - 304" description="" guid="b93f20c8-0309-46c2-8906-c6f9d12b082a" fileName="74f6a059-511d-4459-9e00-4fb045a72a30.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Table_Display_04" description="" guid="b979c97e-eaff-4948-b6b0-3481d4e00ed3" fileName="bd170619-ee73-41d8-bd67-5bcb52675aec.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A2082" description="" guid="b99647d5-8d6b-488d-882b-f7c86f57ce75" fileName="cd28b241-2691-4028-a81a-86c498472952.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0907_Int" description="" guid="ba4940bd-821e-46a4-aebe-27513aaf7da4" fileName="87fc9258-bdec-4a54-9a12-2c5839ebeb2a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0211" description="" guid="ba5d066b-0cca-4935-a627-0811c2cd247e" fileName="7b5999b3-6b17-41db-9e1d-d87adb1f58ed.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Stand 02" description="" guid="ba7e93e1-96c9-4553-93ee-b16f53137867" fileName="6ef24902-e808-4192-bcf3-e46dced2329e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Horizontal Display 02" description="" guid="bb1d3394-2b16-4218-bdb3-381bcbf08eff" fileName="6dcdc596-df5a-497e-b3f8-49f5d770bd0a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Hanging_hole_EURO_double" description="" guid="bb281fd3-bd54-4834-befc-acb418249f8a" fileName="651a0bef-c66b-4a84-8eac-79a17465f62d.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="L" value="32" />
+      <p xsi:type="parameterDouble" name="R" value="6" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="W" value="6" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0226" description="" guid="bba6f893-b19e-4c0f-836f-8c133240a739" fileName="01e30145-b1de-48f4-93eb-44a5c62547e8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B3004" description="" guid="bbe96055-1d98-4397-982b-fdec9bdd9e41" fileName="68dc468d-baf3-46bf-bccf-e3f6ee3e0135.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A1021" description="" guid="bc2ae924-104d-46c4-ab12-4b2ad227bb95" fileName="43230d10-1dcc-4a60-96f2-80ac00f638de.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0214" description="" guid="bc88ae36-924e-4bdf-b7de-03a167ba15fe" fileName="cf6471b5-9a9f-4618-9072-606d1f090b0a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0507_Style1" description="" guid="bd741df2-80da-4b39-be29-18d8530f869c" fileName="546566da-8bf4-482b-b61f-6771bd88df06.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0701" description="" guid="bde34703-a68e-426d-9f74-63733b63ed91" fileName="7ebce716-a2f2-4a7d-a02b-b0bb73b2fba5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Holder_01" description="" guid="be6126a9-17b2-4382-96ef-7a646e7934a6" fileName="8e62018d-b637-4e0e-926c-2866c6b6fcdb.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0214" description="" guid="bed788e7-8a0d-4b83-8f98-15354c5c0648" fileName="727aa297-8982-4dec-bbf2-49266f1db38f.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="300" />
+      <p xsi:type="parameterDouble" name="B2" value="300" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="Hflap" value="146" />
+      <p xsi:type="parameterDouble" name="L1" value="400" />
+      <p xsi:type="parameterDouble" name="L2" value="400" />
+      <p xsi:type="parameterDouble" name="t8" value="6" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Shelf_Support 01" description="" guid="befe1db1-6c4e-4e55-b8b7-0658be1bb7b8" fileName="522cf195-e0c2-4251-9ee1-b6b613c79235.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Bshelf" value="397" />
+      <p xsi:type="parameterDouble" name="DR" value="5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Eshelf" value="10" />
+      <p xsi:type="parameterDouble" name="Fshelf" value="50" />
+      <p xsi:type="parameterDouble" name="Hshelf" value="250" />
+      <p xsi:type="parameterDouble" name="L1" value="600" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="7.5" />
+      <p xsi:type="parameterDouble" name="v2" value="5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Wall_Straight" description="" guid="bf1e7b00-da28-4ac4-95de-ce7b0121bb56" fileName="3e712051-c091-4a90-a77e-02169857cb3f.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="agT1" value="15" />
+      <p xsi:type="parameterDouble" name="B2" value="300" />
+      <p xsi:type="parameterDouble" name="D" value="40" />
+      <p xsi:type="parameterDouble" name="dbw" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="1" />
+      <p xsi:type="parameterDouble" name="H3" value="100" />
+      <p xsi:type="parameterDouble" name="H4" value="100" />
+      <p xsi:type="parameterDouble" name="mth" value="6" />
+      <p xsi:type="parameterDouble" name="mtl" value="33" />
+      <p xsi:type="parameterDouble" name="T1" value="5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="tml" value="33" />
+      <p xsi:type="parameterDouble" name="v1" value="2" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0908_Int" description="" guid="c000bfbd-1660-4afc-b801-e7e6fdf557f0" fileName="f792f594-1ae7-4342-91e1-94a2e695139a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Counter Display 06" description="" guid="c0411c40-fd63-4472-8a4f-5a62fa1edd53" fileName="354210be-ce24-437a-b3e8-f99d45ae3451.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0208" description="" guid="c06fd74b-a0f6-478a-9d75-204053c07aac" fileName="be17e8cf-44f8-4a3b-bca3-12f072d4a2e9.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="310.36599731445312" />
+      <p xsi:type="parameterDouble" name="B2" value="317.17498779296875" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="Ec2" value="13" />
+      <p xsi:type="parameterDouble" name="Ec2H" value="0" />
+      <p xsi:type="parameterDouble" name="EcH" value="3" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="FL" value="150" />
+      <p xsi:type="parameterDouble" name="G" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="184.6929931640625" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="Hbc2" value="1.5" />
+      <p xsi:type="parameterDouble" name="Htuck" value="150" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="403.41299438476562" />
+      <p xsi:type="parameterDouble" name="L2" value="405.54598999023438" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Header Fronton 03" description="" guid="c157cc4a-4f22-46ac-8015-8d89f576efaa" fileName="f59ab58b-d7e6-4fec-bde2-7a5560f0b90f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Closure_panel 02" description="" guid="c1c784d0-35e0-4b2f-ba5a-d197df27f791" fileName="71c515c2-5064-4058-8dc8-ac8158d5b8ee.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="b" value="50" />
+      <p xsi:type="parameterDouble" name="bp" value="0" />
+      <p xsi:type="parameterDouble" name="cl" value="20" />
+      <p xsi:type="parameterDouble" name="d" value="0.5" />
+      <p xsi:type="parameterDouble" name="e" value="0.5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="l" value="100" />
+      <p xsi:type="parameterDouble" name="r" value="22" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v" value="7" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="B1002" description="" guid="c2b1d71f-53d8-4b9d-bd0f-ab2e7049d077" fileName="d49cc472-887f-42ff-b1b0-d318e01ce494.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Link_system" description="" guid="c2ff1e44-8205-4cff-8c41-a3412f4b9fc5" fileName="22a5bf69-c320-4675-8c03-8d01cd47b8d3.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="aG" value="15" />
+      <p xsi:type="parameterDouble" name="Ch1" value="2" />
+      <p xsi:type="parameterDouble" name="Ch2" value="4" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="35" />
+      <p xsi:type="parameterDouble" name="G1" value="5" />
+      <p xsi:type="parameterDouble" name="h1" value="5" />
+      <p xsi:type="parameterDouble" name="h2" value="2" />
+      <p xsi:type="parameterDouble" name="hG" value="100" />
+      <p xsi:type="parameterDouble" name="M1" value="30" />
+      <p xsi:type="parameterDouble" name="M2" value="2" />
+      <p xsi:type="parameterDouble" name="M3" value="1" />
+      <p xsi:type="parameterDouble" name="nb" value="1" />
+      <p xsi:type="parameterDouble" name="Px" value="200" />
+      <p xsi:type="parameterDouble" name="Py" value="0" />
+      <p xsi:type="parameterDouble" name="T1" value="30" />
+      <p xsi:type="parameterDouble" name="T2" value="12" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v5" value="40" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Foldable 04" description="" guid="c3350db0-7522-4ad1-a37f-30e5f81ecdca" fileName="5778dc71-2802-49b5-9773-d5d461fb5a5a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 08" description="" guid="c447a5e8-b57f-4158-b26b-d3eb799123be" fileName="a922e4e4-14ce-4338-ab6b-2b88cb228630.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0226" description="" guid="c46ccec3-24e6-4f95-956c-2b9180ec9918" fileName="8dc55ee9-a81c-4ffd-8e11-a0cd16a12104.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="200" />
+      <p xsi:type="parameterDouble" name="B2" value="200" />
+      <p xsi:type="parameterDouble" name="B3" value="60" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="120" />
+      <p xsi:type="parameterDouble" name="L1" value="300" />
+      <p xsi:type="parameterDouble" name="L2" value="300" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0510 Style1" description="" guid="c49485de-08df-4b3d-98f9-f10ded36e303" fileName="2eff56c7-e10e-4684-af94-47e4c8eb619d.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Cube_01" description="" guid="c582559b-a556-4713-bc25-a3ee760586eb" fileName="e6ca96fa-5d4c-4624-9c5f-6be86ff5916e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0160" description="" guid="c58dc92a-a297-425e-960b-3c89c5586af1" fileName="13006801-b1b4-48e9-8c19-988a441c26f8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Handhold_Bag" description="" guid="c62e8576-08e1-4803-a04d-add8c3824932" fileName="95997578-e987-445e-aba4-e4f808a97599.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="D" value="50" />
+      <p xsi:type="parameterDouble" name="Df" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Hhand" value="30" />
+      <p xsi:type="parameterDouble" name="Lhand" value="90" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="cone" description="" guid="c6436cf2-408a-4ca9-b7cd-7d49b9f2d6fa" fileName="fd8abb38-2e2d-48dd-9ad5-fa9d7eb644c1.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A9999" description="" guid="c6d64161-9baa-4d55-961e-8fda77cea434" fileName="a252db53-0bde-4242-ad90-74dcafcfab3b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Dividers_PLV diagonal" description="" guid="c741a6c7-c00d-42f5-9ad1-aaea96288d58" fileName="716dad3b-7bc8-44aa-b229-5eeb5569caff.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="C1" value="500" />
+      <p xsi:type="parameterDouble" name="ChEc" value="20" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exEc" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="1091" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="40" />
+      <p xsi:type="parameterDouble" name="v2" value="10" />
+      <p xsi:type="parameterDouble" name="v3" value="10" />
+      <p xsi:type="parameterDouble" name="v4" value="40" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0904_Int" description="" guid="c809077f-e008-47e7-a3d6-e44b12fca13f" fileName="d7ae1748-ddb2-4a35-a95a-8ad6fe4d2ed3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F2060" description="" guid="c849fef0-28be-4835-8fb1-ef9d61195619" fileName="fdb28f4d-196d-42fa-b8c8-628f9575c25e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0110" description="" guid="c8e21ee6-d75f-4a76-9ee5-393d57bae7cd" fileName="bf7072fa-0c1c-4697-abad-67ef4f04b1bc.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4920" description="" guid="ca03527a-3eed-46ac-9cf8-d6c06cb91a46" fileName="0928f810-029c-4b54-a574-467aace80c7d.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Dividers PLV 4 set" description="" guid="caaaa243-7499-41c9-8b2c-171faa4d352d" fileName="af02622e-ecb0-47db-be93-1bf36fea4036.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ChEc" value="20" />
+      <p xsi:type="parameterDouble" name="D1" value="240" />
+      <p xsi:type="parameterDouble" name="D2" value="350" />
+      <p xsi:type="parameterDouble" name="Ec" value="8" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="exEc" value="5" />
+      <p xsi:type="parameterDouble" name="H1" value="1000" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="40" />
+      <p xsi:type="parameterDouble" name="v2" value="10" />
+      <p xsi:type="parameterDouble" name="v3" value="10" />
+      <p xsi:type="parameterDouble" name="v4" value="40" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="folding_shelf_01_cut" description="" guid="cc5e08da-aa8d-4ccd-897c-970cef70c419" fileName="faf54ff5-2ebe-466c-b2d2-3695e14cafd9.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ag" value="45" />
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="E" value="5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Lk" value="100" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0201" description="" guid="cc82ee76-3ea5-4211-8a98-2b6bc2472d74" fileName="977610a3-3f8b-449f-a80d-f70e61f66d27.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Double Lock" description="" guid="cc8d10eb-afed-44f6-bf9b-c594a5154543" fileName="6fe26bcb-6045-4107-a768-69ba01447ba9.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A1" value="200" />
+      <p xsi:type="parameterDouble" name="A2" value="200" />
+      <p xsi:type="parameterDouble" name="B" value="74.859001159667969" />
+      <p xsi:type="parameterDouble" name="b1" value="30" />
+      <p xsi:type="parameterDouble" name="Bx" value="100" />
+      <p xsi:type="parameterDouble" name="By" value="100" />
+      <p xsi:type="parameterDouble" name="c1" value="60" />
+      <p xsi:type="parameterDouble" name="cl" value="20" />
+      <p xsi:type="parameterDouble" name="ec" value="5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="HT1" value="15" />
+      <p xsi:type="parameterDouble" name="HT2" value="15" />
+      <p xsi:type="parameterDouble" name="HT3" value="20" />
+      <p xsi:type="parameterDouble" name="RT" value="10" />
+      <p xsi:type="parameterDouble" name="RT3" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v1" value="2" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Ear_02" description="" guid="ce43b72c-2d04-4f9c-88b4-463efee10328" fileName="8e2f0623-8817-4728-a4b0-955e9989993f.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="20" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="100" />
+      <p xsi:type="parameterDouble" name="Ra" value="20" />
+      <p xsi:type="parameterDouble" name="st" value="3" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Counter Display 02" description="" guid="cec76208-595b-4c91-b81d-585cbb1d84be" fileName="38eb21d0-c2e2-41c7-a18c-c029d80f769e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F8031" description="" guid="ceef2596-72af-48bf-850d-ad2731f813f7" fileName="1df54e6b-9462-4424-b58b-3332ed038f13.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="ETSPRA_2" description="" guid="cfc77fda-d346-4820-a49b-3ddce594655e" fileName="198ad37f-fa7d-4f0e-a8b8-900344bd89f5.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B1102" description="" guid="cffe9b41-f7d1-4eca-b491-ddc05a9b1d5b" fileName="9f30eaf0-c015-42bb-a1c7-e07269c5535a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_Semi_auto_PLV" description="" guid="d00a9f12-9307-4b04-9514-f892e5bb72f6" fileName="23dca822-1ea1-4b3f-94d8-cdab38b82736.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="208" />
+      <p xsi:type="parameterDouble" name="B2" value="207" />
+      <p xsi:type="parameterDouble" name="ChLock" value="5" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="150" />
+      <p xsi:type="parameterDouble" name="Hcov1" value="40" />
+      <p xsi:type="parameterDouble" name="Hcov2" value="40" />
+      <p xsi:type="parameterDouble" name="Hcov3" value="40" />
+      <p xsi:type="parameterDouble" name="L1" value="307" />
+      <p xsi:type="parameterDouble" name="L2" value="308" />
+      <p xsi:type="parameterDouble" name="R" value="10" />
+      <p xsi:type="parameterDouble" name="t10" value="4" />
+      <p xsi:type="parameterDouble" name="t6" value="6" />
+      <p xsi:type="parameterDouble" name="t7" value="0" />
+      <p xsi:type="parameterDouble" name="t8" value="0" />
+      <p xsi:type="parameterDouble" name="t9" value="-3" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="ETSPROC" description="" guid="d03ac200-df63-4182-b84d-e722de1a9b85" fileName="024ea61a-a0c7-4f06-8dda-4f3c93b14ec4.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0217_Style1" description="" guid="d0d90e08-c5e1-45d1-a960-1872ac4ebd03" fileName="faa7e9ea-7e0b-485e-902b-c47dc0d9c644.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="Dlock" value="20" />
+      <p xsi:type="parameterDouble" name="EcL" value="4" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="Hlock" value="80" />
+      <p xsi:type="parameterDouble" name="L" value="400" />
+      <p xsi:type="parameterDouble" name="R1" value="20" />
+      <p xsi:type="parameterDouble" name="R2" value="4" />
+      <p xsi:type="parameterDouble" name="t1" value="7" />
+      <p xsi:type="parameterDouble" name="t2" value="8" />
+      <p xsi:type="parameterDouble" name="t3" value="8" />
+      <p xsi:type="parameterDouble" name="t4" value="7" />
+      <p xsi:type="parameterDouble" name="t6" value="1" />
+      <p xsi:type="parameterDouble" name="t7" value="12" />
+      <p xsi:type="parameterDouble" name="t8" value="2" />
+      <p xsi:type="parameterDouble" name="t9" value="6" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Totem 03 Triangle Glued" description="" guid="d0f183ab-4af7-4acb-b5e1-e81eb4a9ebac" fileName="9c59953a-a555-4575-bc6d-40508fd9b466.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Notch_v1" description="" guid="d1557b4c-1af6-4576-879d-e672018ff40a" fileName="2493e62d-ad79-4949-8fda-935d50aff51f.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="AgCh" value="45" />
+      <p xsi:type="parameterDouble" name="Ec" value="20" />
+      <p xsi:type="parameterDouble" name="EcChR" value="8" />
+      <p xsi:type="parameterDouble" name="EcChX" value="8" />
+      <p xsi:type="parameterDouble" name="EcChY" value="8" />
+      <p xsi:type="parameterDouble" name="EcExt" value="10" />
+      <p xsi:type="parameterDouble" name="EcH" value="50" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Flyer Display 02" description="" guid="d237878a-d1c3-47c6-a143-bc26e0d4daf6" fileName="ace24eca-4910-4b35-b4a0-94d704267854.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0199" description="" guid="d2fb8ca0-5275-4fab-a2f5-4759a2760647" fileName="8c4bd754-cb46-4b77-8666-a2da5881de5d.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F1081" description="" guid="d39943bc-bf6b-4dcf-a920-e10febe691f6" fileName="7b376606-34f9-4925-8ce1-0e3f3eca3617.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="fourreau v1" description="" guid="d3debf00-b03f-446c-8455-fb60cec673d9" fileName="0561ff69-f6f2-4a2b-a806-9522c79fe807.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Totem 07 Glued" description="" guid="d43b777c-cd03-4b37-94cf-f8c6ad3396c6" fileName="9798c8fc-19c5-4a3e-9c18-cb0e3fcf9186.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0505_Style1" description="" guid="d4733445-8f59-4fbe-80c3-41aa6a34bfe5" fileName="cac74c6b-3c1a-46e6-9ac2-c9ff8601873c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0713" description="" guid="d4ce9845-71c8-47ac-afec-5b428e4368a4" fileName="6d3e6467-9083-407b-9aec-dd476ec9a474.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Box Pallet 01" description="" guid="d5d84d97-900e-4ddc-92f2-fc39757dab1f" fileName="c55c11a1-455e-481a-9bbd-deb649b7d104.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="ETSPRA_1" description="" guid="d6d9981d-15ea-46f2-a187-a1d6b3903214" fileName="0db2ee00-067e-468d-918a-36b97bcce44f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0906_Int" description="" guid="d7d158ff-fd21-4ec6-a37e-d9491d42b4a5" fileName="bd997d3f-3a8e-4f41-823f-ac17ce41b609.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Display_Base_Shelf_01" description="" guid="d8427003-c1cb-4c53-a29e-fb3db257367a" fileName="19fe743c-7ee5-4c5e-b4e2-23a400c2b1c4.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="300" />
+      <p xsi:type="parameterDouble" name="B3" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="4.5" />
+      <p xsi:type="parameterDouble" name="H3" value="0" />
+      <p xsi:type="parameterDouble" name="Hbot" value="400" />
+      <p xsi:type="parameterDouble" name="Hshelf" value="300" />
+      <p xsi:type="parameterDouble" name="Htop" value="200" />
+      <p xsi:type="parameterDouble" name="L" value="400" />
+      <p xsi:type="parameterDouble" name="NbS" value="4" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A5520 " description="" guid="d881ac50-c0a2-42f0-90f2-dc3577b5aedd" fileName="3858cc59-1fc2-43b8-88b9-8ca860532979.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV_Part Ring" description="" guid="d8c8b732-fe6e-41d5-b85d-ce334efd832e" fileName="9ced3b7f-aedd-4b15-8ce9-07278fa18764.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="10" />
+      <p xsi:type="parameterDouble" name="D" value="60" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="Sp1" value="30" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Sleeve" description="" guid="da290efa-83a5-4ccd-808c-9a5eec81f36b" fileName="ab5ae5e8-1e53-426d-af8d-51234c3309b4.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="100" />
+      <p xsi:type="parameterDouble" name="B" value="60" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="g" value="15" />
+      <p xsi:type="parameterDouble" name="H" value="100" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F2051" description="" guid="daec0b64-9e1f-4126-857f-0726a97f7dfe" fileName="eca6b030-9d0c-474c-918a-c2a0a61154da.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B1104" description="" guid="db0ce24e-c3e5-44b5-b057-f2827f731a28" fileName="2a3b15fa-2432-486b-adfc-77b863c06127.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Mortise compact cardboard" description="" guid="db2c245a-01b8-49d6-983d-5bfd4c7289f6" fileName="8c0e13b4-fe71-43f9-b22b-9989e89cfb16.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="agM1" value="15" />
+      <p xsi:type="parameterDouble" name="B2" value="300" />
+      <p xsi:type="parameterDouble" name="D" value="40" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="mth" value="6" />
+      <p xsi:type="parameterDouble" name="mtl" value="33" />
+      <p xsi:type="parameterDouble" name="T1" value="5" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="tml" value="33" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A2050" description="" guid="db79d287-6569-416f-ace0-92c8b09a0cfe" fileName="73cfb404-5b4e-4219-9036-6eca9c502d4c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0601" description="" guid="dca4c214-5693-4d0d-877c-b8784725e339" fileName="0afbe7ae-1dd7-48e6-9e14-45d6d051a7f2.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0951" description="" guid="dce8d090-04d0-4d74-85b8-4946089997a1" fileName="cc7b3b2b-2b78-4ec0-a5f3-23c79cc29329.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0127" description="" guid="dd171eca-141b-4a55-add6-0fcac96086b8" fileName="3d456527-6b4a-4ff3-926f-d56a46a98eaa.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B1506 53" description="" guid="ddfbe707-be81-4446-943e-854766058a15" fileName="5645e492-e1d5-4a4b-8897-7d528806470b.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Braille" description="" guid="de21883e-eb94-4ee4-809f-5c578e08bcb5" fileName="70657835-b804-4557-b474-36e0f6273d20.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F7000" description="" guid="deaf9045-9bb9-4775-86a0-9c503c31d178" fileName="40d961fc-ee95-450e-8830-5c3148b5819a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0451" description="" guid="df2506d4-f379-41e6-8955-75242d377271" fileName="14cafa5d-d6d2-41b7-8fb4-d8e813488605.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0321" description="" guid="dfa189fb-1345-4348-b4c4-f6b3f3da4fdf" fileName="eae6101b-d8bc-4620-8261-2730aa6801d6.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0225" description="" guid="e05f0033-cd02-4a4f-b564-09d8c60daf85" fileName="3d039adf-f521-4cd0-839b-8f7711a3e46d.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="300" />
+      <p xsi:type="parameterDouble" name="B1" value="307" />
+      <p xsi:type="parameterDouble" name="B2" value="308" />
+      <p xsi:type="parameterDouble" name="ChFlap" value="28.284000396728516" />
+      <p xsi:type="parameterDouble" name="ep1" value="1" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="206.0989990234375" />
+      <p xsi:type="parameterDouble" name="H2" value="184" />
+      <p xsi:type="parameterDouble" name="L1" value="408" />
+      <p xsi:type="parameterDouble" name="L2" value="407" />
+      <p xsi:type="parameterDouble" name="R" value="30" />
+      <p xsi:type="parameterDouble" name="t10" value="8" />
+      <p xsi:type="parameterDouble" name="t6" value="2" />
+      <p xsi:type="parameterDouble" name="t7" value="2" />
+      <p xsi:type="parameterDouble" name="t8" value="14" />
+      <p xsi:type="parameterDouble" name="t9" value="6" />
+      <p xsi:type="parameterDouble" name="th1" value="1" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Canadien 01" description="" guid="e091b567-10a7-4dc8-9541-df8d771af821" fileName="60cd7a73-7316-4675-adba-70ac591fc410.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0200_1/4" description="" guid="e0d5c449-d26a-4d31-8cb4-368eebba0c47" fileName="e01235f7-114f-40ff-a80c-a4e5769e9018.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="EcH" value="2" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="FL" value="150" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="200" />
+      <p xsi:type="parameterDouble" name="Hbc" value="4" />
+      <p xsi:type="parameterDouble" name="hFB" value="0" />
+      <p xsi:type="parameterDouble" name="hFL" value="0" />
+      <p xsi:type="parameterDouble" name="k" value="5" />
+      <p xsi:type="parameterDouble" name="L1" value="400" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="wFB" value="0" />
+      <p xsi:type="parameterDouble" name="wFL" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A0115" description="" guid="e2d46b19-c511-4c30-ab0e-3914dbd09769" fileName="20754336-4c4f-48dc-a613-ec3cfa7222a9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0421 PicFEFCO" description="" guid="e2e2b62d-6671-4c98-9bf4-d0cfcb6890d9" fileName="682e2bbc-c58b-4d85-a959-181a13741a43.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0700" description="" guid="e2f17d54-bc8b-4e5b-9a20-117e4abb792f" fileName="11f7c415-6eeb-468f-84d7-db866f52a89f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Easel_02_small" description="" guid="e38dd7df-8eed-4175-9dd8-aa3872cc3c24" fileName="4b4d63d4-b950-4326-9f7b-004c8c336924.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="A" value="10" />
+      <p xsi:type="parameterDouble" name="B" value="100" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H" value="385" />
+      <p xsi:type="parameterDouble" name="H2" value="140" />
+      <p xsi:type="parameterDouble" name="L" value="127" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0429" description="" guid="e393e944-6f89-40c8-9dfa-059271cf460d" fileName="f064b8fa-4612-4643-9d72-249046cde94c.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Canadien Casier" description="" guid="e3a308e5-d378-4c31-a6d9-e0786fb791b2" fileName="c08ac314-1890-4a0c-83c2-e221bebf3283.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1Div" value="300" />
+      <p xsi:type="parameterDouble" name="ep1" value="5" />
+      <p xsi:type="parameterDouble" name="F1" value="280" />
+      <p xsi:type="parameterDouble" name="F2" value="120" />
+      <p xsi:type="parameterDouble" name="H" value="300" />
+      <p xsi:type="parameterDouble" name="L1Div" value="300" />
+      <p xsi:type="parameterDouble" name="LkH" value="200" />
+      <p xsi:type="parameterDouble" name="NbB" value="3" />
+      <p xsi:type="parameterDouble" name="NbL" value="4" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Counter Display 04" description="" guid="e3f80c43-3f55-4be1-90cb-bc6b15338220" fileName="6781e27e-817c-4cba-9615-8ea064d5e1a3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="ETSPPP" description="" guid="e527bf16-6be5-4de5-85a6-64ff6a150786" fileName="dde55998-9c7b-41a5-87f3-8b3277e32b7e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Tuck_end Corrugated" description="" guid="e5ee7a9b-27aa-4ea7-a54c-a756ffe7d453" fileName="404035fa-6e1c-42ac-b1db-6f27d83c0e57.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="a" value="10" />
+      <p xsi:type="parameterDouble" name="B1" value="80" />
+      <p xsi:type="parameterDouble" name="B2" value="79" />
+      <p xsi:type="parameterDouble" name="C1" value="18" />
+      <p xsi:type="parameterDouble" name="cl" value="20" />
+      <p xsi:type="parameterDouble" name="e1" value="0" />
+      <p xsi:type="parameterDouble" name="ep1" value="1" />
+      <p xsi:type="parameterDouble" name="G" value="0" />
+      <p xsi:type="parameterDouble" name="H1" value="140" />
+      <p xsi:type="parameterDouble" name="L" value="80" />
+      <p xsi:type="parameterDouble" name="L1" value="80" />
+      <p xsi:type="parameterDouble" name="L2" value="80" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="v" value="4" />
+      <p xsi:type="parameterDouble" name="v4" value="0" />
+      <p xsi:type="parameterDouble" name="x2" value="5" />
+      <p xsi:type="parameterDouble" name="y2" value="2.5" />
+      <p xsi:type="parameterDouble" name="y3" value="5" />
+      <p xsi:type="parameterDouble" name="z" value="8" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0700_Extended" description="" guid="e64a8365-57e0-4a28-ae1b-6ea31635ddad" fileName="66333f22-32ff-4f97-9400-74b04aaae101.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0205" description="" guid="e6f52f68-6add-4a84-bb94-dd70dbab6d3d" fileName="e25f3d4e-9bf9-46c5-b40e-6a5ea82c8699.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0970" description="" guid="e7807af5-90eb-4311-a2c9-ff0f758b1ec8" fileName="95ee0dbc-616a-4d90-a4e1-e13bf71c5604.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0452" description="" guid="e79ecc47-84af-4d6d-8b9d-48e05f520a48" fileName="7e14383b-faa0-45f9-b9e0-01665b619295.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0480" description="" guid="e7cdb33c-51f8-4361-95f0-97c1f7fdcffd" fileName="03a97705-e609-4444-a612-0e440f2abca9.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_2050" description="" guid="e7d6f713-e60e-456e-a155-5bfc8a14eb03" fileName="5f23978f-702f-449a-9689-f61e0db28222.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="POS_PLV Foldable 02" description="" guid="e804e1d1-1d6b-4901-ae62-c05ca81e5c48" fileName="f181b707-7797-4382-98cd-87d3221dea02.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0503" description="" guid="e890b091-4986-403a-b65d-e8d9c154d73f" fileName="837e12ca-a1c2-4ad8-8594-aaf52ac31807.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Box Pallet 04" description="" guid="e94c8e1c-72c3-465c-b40d-9fcbbf509895" fileName="8e0320b8-9bca-4cd6-abb6-c1a6bbbc15f7.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Sign Panel 02" description="" guid="ea13312c-b159-4384-bb7f-46d619fe3902" fileName="7a7101a0-5c80-4fe6-8a81-965cd3b9dac8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4020 84" description="" guid="eab14de8-8664-40c2-84c8-929958d27a73" fileName="5b941464-a8fb-4b98-92c8-2ebe5ec9fce4.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Fefco_427" description="" guid="eaf54d7e-a0dc-4f24-9d9d-10fb24320d5b" fileName="94de8fe7-e64c-4738-80d8-a159c2f3a502.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Counter Display 05" description="" guid="eb7cbfc8-9e90-4af3-bac9-86dcee14170a" fileName="94ea3f19-fae6-4e1d-a741-8c53e78a1e27.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A7070" description="" guid="ecc2492d-231e-4439-a995-d8d1eb4bae90" fileName="3fd079d0-0da8-4751-98e3-88e27bf72f18.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0301" description="" guid="ecec524a-b7d1-4510-b7db-3c71a9fca25c" fileName="0e5da551-8f8b-42d3-b557-c2a7139ad634.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Half_0211" description="" guid="edbaaf5e-386e-445e-a567-da1e0a9e93f1" fileName="c59411cd-6d1f-4eea-a450-ef4ccedf8c08.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="303" />
+      <p xsi:type="parameterDouble" name="B2" value="300" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="1" />
+      <p xsi:type="parameterDouble" name="FL" value="303" />
+      <p xsi:type="parameterDouble" name="G" value="30" />
+      <p xsi:type="parameterDouble" name="H1" value="101.5" />
+      <p xsi:type="parameterDouble" name="Hflap" value="50" />
+      <p xsi:type="parameterDouble" name="Htuck" value="30" />
+      <p xsi:type="parameterDouble" name="L1" value="403" />
+      <p xsi:type="parameterDouble" name="L2" value="403" />
+      <p xsi:type="parameterDouble" name="LTh" value="24" />
+      <p xsi:type="parameterDouble" name="Rtuck" value="20" />
+      <p xsi:type="parameterDouble" name="t7" value="6" />
+      <p xsi:type="parameterDouble" name="t8" value="5" />
+      <p xsi:type="parameterDouble" name="t9" value="2" />
+      <p xsi:type="parameterDouble" name="th1" value="1" />
+      <p xsi:type="parameterDouble" name="xCh" value="28.284000396728516" />
+      <p xsi:type="parameterDouble" name="yCh" value="28.284000396728516" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="PLV Part Header 02" description="" guid="edc0089f-9ebf-4533-8921-9764043b95e1" fileName="a306cb68-a0a6-4628-917d-88d365355855.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="ep1" value="0" />
+      <p xsi:type="parameterDouble" name="H" value="120" />
+      <p xsi:type="parameterDouble" name="H2" value="60" />
+      <p xsi:type="parameterDouble" name="L" value="250" />
+      <p xsi:type="parameterDouble" name="rH1" value="10" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="Display_Base_Shelf_02" description="" guid="ede6ce75-f7f1-4411-a028-5901af49d49e" fileName="7c8a7126-3653-4f82-8012-3297e49575bb.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="400" />
+      <p xsi:type="parameterDouble" name="B3" value="0" />
+      <p xsi:type="parameterDouble" name="Ec" value="6" />
+      <p xsi:type="parameterDouble" name="ep1" value="4.5" />
+      <p xsi:type="parameterDouble" name="H3" value="0" />
+      <p xsi:type="parameterDouble" name="HBot" value="254.75" />
+      <p xsi:type="parameterDouble" name="Hshelf" value="273.5" />
+      <p xsi:type="parameterDouble" name="Htop" value="256.75" />
+      <p xsi:type="parameterDouble" name="L" value="300" />
+      <p xsi:type="parameterDouble" name="NbS" value="4" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="A0161" description="" guid="f045ccfd-2347-46be-9460-57805c1c022c" fileName="f8d73060-9cd3-42f7-9491-23cf7cb9b314.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Cube_02" description="" guid="f079f87e-2a5b-4bc8-931f-d185a65a4d3f" fileName="46e54339-51a4-46e8-b455-ca874a8e0778.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0421" description="" guid="f0e2ba01-0dff-42cb-a0d9-c07f873f726f" fileName="705cd738-73ce-4050-a4e1-c5e40c23c46a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0974" description="" guid="f1bb0d23-93f6-4ae7-8679-ea4a7f425e1d" fileName="ab326807-abb5-479e-b9a2-be88fed01da3.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0400" description="" guid="f2d650ea-aba3-4bb4-b96e-22867c4bf185" fileName="99a491a0-e342-480e-b6cd-664d9bf3ba60.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0198" description="" guid="f2e68871-6842-43f7-adbd-9c921ddd1a23" fileName="e09bd68b-4c83-44b2-8cb1-6c49fc17fbbe.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F8053" description="" guid="f463e0d0-d1f4-4884-9aa0-0f8fbf9d0bcd" fileName="d27f646e-da8d-490c-b966-58e03401b8eb.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A1010" description="" guid="f4decffb-9ed4-4757-940e-860fb4adb358" fileName="28c46fa0-ff3f-4f65-98ef-133a851f4554.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0455" description="" guid="f5455264-d0b8-4651-b578-3c4d26cc1788" fileName="7e545139-d8fb-4f78-b65b-825663f46dbf.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="A0155" description="" guid="f608d815-d5b1-4961-8c6e-872a07838d40" fileName="9928d89b-65c5-4792-91ed-37a3709b2d7e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="B4022_Style2" description="" guid="f836810a-10cb-4600-a453-45bbd76c6c64" fileName="411f5207-f11e-4082-a9a0-4f5bfe74e15f.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="F_0422" description="" guid="f8cb0dfe-b801-4ff1-90dd-ea57a5e844c6" fileName="0f547769-5764-46ab-b3a6-23efb082257a.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="*Smart_DblWall" description="" guid="f94253df-25ff-4c82-be99-b06ea8cdac10" fileName="b151734f-d35c-4291-ac75-f57ff4bf216e.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Fefco_0606" description="" guid="f9ca3459-6f07-4b80-89b7-e578de025164" fileName="b40e657c-6318-4c7d-bfa0-db59f785f3ce.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="GALIA C" description="" guid="fa728595-70d8-44bc-b651-6b4ea4d9c341" fileName="ba70c23b-7fc3-4c90-8617-fc41d473cf55.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Wall_Oblique 02" description="" guid="fbd38e43-2555-49df-8d00-c32ae1f9c77b" fileName="bd430d6b-0411-4961-8fd4-dd2ca44d5535.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="160" />
+      <p xsi:type="parameterDouble" name="D" value="30" />
+      <p xsi:type="parameterDouble" name="Dbw" value="5" />
+      <p xsi:type="parameterDouble" name="e" value="1" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="H1_1" value="30" />
+      <p xsi:type="parameterDouble" name="H2_1" value="70" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+      <p xsi:type="parameterDouble" name="TnA" value="2" />
+      <p xsi:type="parameterDouble" name="TnH" value="4" />
+      <p xsi:type="parameterDouble" name="TnL" value="20" />
+      <p xsi:type="parameterDouble" name="XDbw1" value="5" />
+      <p xsi:type="parameterDouble" name="XDbw2" value="5" />
+      <p xsi:type="parameterDouble" name="xH1" value="0" />
+      <p xsi:type="parameterDouble" name="xH2" value="0" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0203" description="" guid="fc8277a7-6980-4a27-9683-f9739e258b75" fileName="7c183dbf-d2a3-4470-9326-e5e4bd64f2fa.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Table_Display_01" description="" guid="fd66f9aa-a3d2-453f-9ef6-f8a829bb5015" fileName="72f750ba-dd2f-41bb-8b47-aaafb0a3fcf6.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="Display_Shelf_Support_02" description="" guid="fdf2f8ab-00b2-4fbe-9586-c2cbb7a0a2dc" fileName="fc9bdedf-b549-4286-95ce-baf015664009.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B1" value="60" />
+      <p xsi:type="parameterDouble" name="B2" value="40" />
+      <p xsi:type="parameterDouble" name="ep1" value="0.5" />
+      <p xsi:type="parameterDouble" name="L1" value="350" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0314" description="" guid="fe4c7aee-8d31-4f43-af21-03bbf1333539" fileName="b41221af-9f41-491a-a25f-fcd511ef71bb.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+  <components name="PLV Part Holder 01" description="" guid="fe4d400c-54b4-430e-8f31-4d04c39280ed" fileName="de43f6b2-7ad6-4ce7-8d2b-8e5f74977a26.dll">
+    <paramDefaults>
+      <p xsi:type="parameterDouble" name="B" value="30" />
+      <p xsi:type="parameterDouble" name="ep1" value="2" />
+      <p xsi:type="parameterDouble" name="F1" value="20" />
+      <p xsi:type="parameterDouble" name="F4" value="120" />
+      <p xsi:type="parameterDouble" name="H" value="200" />
+      <p xsi:type="parameterDouble" name="L" value="220" />
+      <p xsi:type="parameterDouble" name="pF" value="30" />
+      <p xsi:type="parameterDouble" name="th1" value="0.5" />
+    </paramDefaults>
+    <majorationSets />
+  </components>
+  <components name="F_0450" description="" guid="fee7b7a4-b424-420d-88bf-be5d962c15d3" fileName="27ea7e13-d48d-40c7-8c8f-758408c25bb8.dll">
+    <paramDefaults />
+    <majorationSets />
+  </components>
+</componentList>

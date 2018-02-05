@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ComponentShema"
+    targetNamespace="/treeDiM/PLMPack/Components"
+    elementFormDefault="qualified"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:comp="/treeDiM/PLMPack/Components"
+>
+  <!-- Parameter -->
+  <xs:complexType name="parameter" abstract="true">
+    <xs:annotation>
+      <xs:documentation>
+        Define a parameter.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:attribute name="name" type="xs:string"/>
+  </xs:complexType>
+  <!-- Parameter double -->
+  <xs:complexType name="parameterDouble">
+    <xs:annotation>
+      <xs:documentation>
+        Define parameter double
+      </xs:documentation>
+    </xs:annotation>
+    <xs:complexContent>
+      <xs:extension base ="comp:parameter">
+        <xs:attribute name="value" type="xs:double"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <!-- Parameter int -->
+  <xs:complexType name ="parameterInt">
+    <xs:annotation>
+      <xs:documentation>
+        Define parameter int
+      </xs:documentation>
+    </xs:annotation>
+    <xs:complexContent>
+      <xs:extension base="comp:parameter">
+        <xs:attribute name="value" type="xs:int"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <!-- Parameter bool-->
+  <xs:complexType name="parameterBool">
+    <xs:annotation>
+      <xs:documentation>
+        Define parameter bool
+      </xs:documentation>
+    </xs:annotation>
+    <xs:complexContent>
+      <xs:extension base="comp:parameter">
+        <xs:attribute name="value" type="xs:boolean"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <!-- Parameter multi-->
+  <xs:complexType name="parameterMulti">
+    <xs:annotation>
+      <xs:documentation>
+        Define parameter multi
+      </xs:documentation>
+    </xs:annotation>
+    <xs:complexContent>
+      <xs:extension base="comp:parameter">
+        <xs:attribute name="value" type="xs:int"/>
+        <xs:attribute name="options" type="xs:string"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <!-- Component list -->
+  <xs:element name="componentList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name ="components" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="paramDefaults">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="p" type="comp:parameter" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:sequence>
+                <xs:element name="majorationSets">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="majorationSet" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="parameters" type="comp:parameter" minOccurs="0" maxOccurs="unbounded"/>
+                          </xs:sequence>
+                          <xs:attribute name="name" type="xs:string"/>
+                          <xs:attribute name="thickness" type ="xs:double"/>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:sequence>
+            <xs:attribute name="name" type="xs:string"/>
+            <xs:attribute name="description" type="xs:string"/>
+            <xs:attribute name="guid" type="xs:string"/>
+            <xs:attribute name="fileName" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="ComponentDirPath" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
